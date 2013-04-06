@@ -1,0 +1,1 @@
+This directory will be used to contain all files associated with the development of WOW's web-based client.

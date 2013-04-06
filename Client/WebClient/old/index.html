@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>Window on the World - Web Client</title>
+		
+		<script type="text/javascript" src="js/prototype.js"></script>
+		<script type="text/javascript" src="js/window.js"></script>
+		<link href="css/default.css" rel="stylesheet" type="text/css"/>
+		<link href="css/spread.css" rel="stylesheet" type="text/css"/>
+		
+		<!-- Dependencies --> 
+		<script type="text/javascript" src="js/Table.js"></script>
+		<script type="text/javascript" src="js/Request.js"></script>
+		<script type="text/javascript" src="js/Menu.js"></script>
+		<script type="text/javascript" src="js/WOW.js"></script>
+		<link rel="stylesheet" href="css/wow.css" type="text/css" />
+	</head>
+	<body onload = "checkUrlForQuery()">
+    <noscript>
+		<div style="clear: left; font-size: 24px; font-weight: bold; background: #FF0000; color: #FFFFFF; padding: 4px; width: 80%; border: 1px black ridge;">
+			The WOW Web Client does not function correctly unless used with a JavaScript-enabled browser.<br />
+			Please enable JavaScript.
+		</div>
+	</noscript>
+	<div id="vtc" onclick="javascript:window.location='http://www.vtc.edu'"></div>
+	<div id="wow"></div>
+	
+        <ul id="menu">
+			<li>
+				<a href = "#" class="topMenu" onmouseover="javascript:menuOpen('m1');" onmouseout="javascript:setTimer();">Search+</a>
+				<div class="submenu">
+					<div id="m1" onmouseover="javascript:cancelTimer();" onmouseout="javascript:setTimer();">
+						<a href="#" onclick="javascript:select('fax');">Fax Numbers</a>
+						<a href="#" onclick="javascript:select('dept');">Department List</a>
+						<a href="#" onclick="javascript:select('phone');">Phone Number</a>
+						<a href="#" onclick="javascript:select('office');">Office Search</a>
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href = "#" class="topMenu" onmouseover="javascript:menuOpen('m4');" onmouseout="javascript:setTimer();">Info</a>
+				<div class="submenu">
+					<div id="m4" onmouseover="javascript:cancelTimer();" onmouseout="javascript:setTimer();">
+						<a href="#" onmousedown="javascript:select('info');">Emergency Info</a>
+						<a href="#" onmousedown="javascript:select('stats');">Usage Stats</a>
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href = "#" class="topMenu" onmouseover="javascript:menuOpen('m3');" onmouseout="javascript:setTimer();">Print</a>
+				<div class="submenu">
+					<div id="m3" onmouseover="javascript:cancelTimer();" onmouseout="javascript:setTimer();">
+						<a href="#" onmousedown="javascript:sendPrintData(PRINT_ALL);">All Records</a>
+						<a href="#" onmousedown="javascript:sendPrintData(PRINT_RESULTS);">Current Results</a>
+						<a href="#" onmousedown="javascript:sendPrintData(PRINT_DEPT);">Full Dept. List</a>
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href = "#" class="topMenu" onmouseover="javascript:menuOpen('m2');" onmouseout="javascript:setTimer();">Help</a>
+				<div class="submenu">
+					<div id="m2" onmouseover="javascript:cancelTimer();" onmouseout="javascript:setTimer();">
+						<a href="#" onclick="javascript:select('help');">Overview</a>
+						<a href="#" onclick="javascript:select('tutorial');">Quick Tutorial</a>
+						<a href="#" onclick="javascript:select('feedback');">Feedback</a>
+						<a href="#" onclick="javascript:select('about');">About</a>
+					</div>
+				</div>
+			</li>
+   	    </ul>
+		
+		<div id="container">
+			<div id="search-container">
+				<input 	type="text" 
+					name="searchBar"
+					class="searchBar"
+					id="searchBar"
+					onclick="javascript:testFirstClick(this);"
+					ondblclick="javascript:this.select()"
+					value="Enter WOW query here..."
+					onkeypress="javascript:queryIfEnter(event, this.value);" />
+				<div id="searchImg">
+					<input 	type="button" 
+						value="Search" 
+						name="searchButton" 
+						class="button" 
+						id="searchButton"
+						onclick="javascript:query( document.getElementById('searchBar').value );"
+						onmouseover="javascript:searchButton_onMouseOver();"
+						onmouseout="javascript:searchButton_onMouseOut();" />
+				</div>
+				
+			</div>
+        </div>
+			
+        <div id="output" >
+            <table border="1" width="100%">
+                <tr>
+                    <th onclick="javascript:doSort('Last Name');"><a href="#" class="outpt">Last Name<img src="img/up_arrow.gif" alt="" /></a></th>
+                    <th onclick="javascript:doSort('First Name');"><a href="#" class="outpt">First Name</a></th>
+                    <th onclick="javascript:doSort('Phone Number');"><a href="#" class="outpt">Phone Number</a></th>
+                    <!--<th onclick="javascript:doSort('E-mail');"><a href="#" class="outpt">E-mail</a></th>--> <!--  E-mail column is unused temporarily. -->
+                    <th onclick="javascript:doSort('Campus');"><a href="#" class="outpt">Campus</a></th>
+                    <th onclick="javascript:doSort('Role');"><a href="#" class="outpt">Role</a></th>
+                    <th onclick="javascript:doSort('Department');"><a href="#" class="outpt">Department</a></th>
+                    <th onclick="javascript:doSort('Fax');"><a href="#" class="outpt">Fax</a></th>
+                    <th onclick="javascript:doSort('Office');"><a href="#" class="outpt">Office</a></th>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <!--<td>&nbsp;</td>--> <!-- Uncomment this when e-mail column returns. -->
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+            </table>
+            
+            <div id="center-box">
+                Search with WOW like a phone book: by last name, then first name.<br />
+				Partial words will yield results. Here's an example search for Jim Smith.<br />
+				<img src="img/search2.jpg" alt="&quot;sm j&quot;" /><br />
+                To search for only first name, press the space bar and then enter the first name.<br />
+				<img src="img/search1.jpg" alt="&quot; jim&quot;" /><br />
+                Be sure to explore the menu -- Search+ has some handy features.<br />
+				Send all WOW feedback to vtcit2@vtc.edu. Enjoy!
+            </div>
+			
+			<div id="center-box2">
+                WoW was designed and developed by VTC students, faculty, and staff.<br />
+				For information on getting involved, visit <a href="http://vtank.vtc.edu">http://vtank.vtc.edu</a>
+            </div>
+		</div>
+        
+	</body>
+</html>

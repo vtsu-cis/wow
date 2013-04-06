@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding=".classpath|.project|build-cc.xml|build.xml|build/|junit4.3.1/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="junit4.3.1/junit-4.3.1.jar"/>
+	<classpathentry kind="lib" path="junit4.3.1/junit-4.3.1-src.jar"/>
+	<classpathentry kind="lib" path="libs/swing-layout-1.0.jar"/>
+	<classpathentry kind="output" path="build"/>
+</classpath>

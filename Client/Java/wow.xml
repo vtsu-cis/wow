@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="messages.xsl"?>
+
+<!-- FILE        :test.xml
+     LAST REVISED: 2007-07-12
+     AUTHOR      : Nick Guertin
+     SUBJECT     : Example email document.
+-->
+<wow:data-group xmlns:wow="http://onyx.ecet.vtc.edu/XML/WoW" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" color="red" xsi:schemaLocation="http://onyx.ecet.vtc.edu/XML/WoW WoW.xsd">
+    <wow:record>
+        <first>Nick</first>
+        <last>Guertin</last>
+        <phone>
+            <type>Home</type>
+            <number>(802)524-6367</number>
+        </phone>
+        <phone>
+            <type>Cell</type>
+            <number>(802)272-1116</number>
+        </phone>
+        <email>
+            <type>Personal</type>
+            <address>n_guertin@yahoo.com</address>
+        </email>
+        <email>
+            <address>nrg09040@vtc.edu</address>
+        </email>
+        <field>
+            <name>Office</name>
+            <value>213</value>
+        </field>
+        <field>
+            <name>Address1</name>
+            <value>49 Upper Meadow Rd.</value>
+        </field>
+    </wow:record>
+    <wow:record>
+        <first>Boomer</first>
+        <last>Ransom</last>
+        <phone>
+            <type>Home</type>
+            <number>(802)123-4567</number>
+        </phone>
+        <phone>
+            <type>Cell</type>
+            <number>(802)987-6543</number>
+        </phone>
+    </wow:record>
+<wow:record>
+<first>Nrick</first>
+<last>Gueertin</last>
+<phone>
+<type>Phone</type>
+<number>(802)524-6367</number>
+</phone>
+<email>
+<address>n_guertin@yahoo.com</address>
+</email>
+</wow:record>
+</wow:data-group>

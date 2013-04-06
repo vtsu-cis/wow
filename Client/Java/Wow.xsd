@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!-- FILE        : WoW.xsd
+     LAST REVISED: 2007-07-12
+     AUTHOR      : Nick Guertin
+     SUBJECT     : XML schema for describing WoW data storage.
+
+This markup is intended to define the basic information that can be contained in a WoW record.  It is possible that in the future this will be modified on a per client basis for local data and on a per server basis for each domain. -->
+
+<xsd:schema xmlns="http://onyx.ecet.vtc.edu/XML/WoW" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://onyx.ecet.vtc.edu/XML/WoW">
+
+	<xsd:element name="data-group">
+		<xsd:annotation>
+			<xsd:documentation>A data group contains a number of records. One imagines that the
+				messages in a data group are related in some way (such as list of family members, emergency contacts, etc),
+				but this schema does not intend to imply any specific relationship. Each record in a data group is completely independent and
+				fully self-contained.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="record" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		<xsd:attribute name="color" type="xsd:string"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="record">
+		<xsd:annotation>
+			<xsd:documentation>A record element contains exactly one person's information. All information
+				about the person is specified by this element.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="first" type="xsd:string"/>
+				<xsd:element name="last" type="xsd:string"/>
+				<xsd:element name="phone" type="phoneType" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element name="email" type="emailType" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element name="field" type="fieldType" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:complexType name="phoneType">
+		<xsd:annotation>
+			<xsd:documentation>The type phoneListType is used to describe elements that can hold
+				lists of phone numbers. Since a person can have many different phone numbers it makes
+				good sense to break out the type separately like this.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="type" type="xsd:string"/>
+			<xsd:element name="number" type="xsd:string"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	<xsd:complexType name="emailType">
+		<xsd:annotation>
+			<xsd:documentation>The type emailListType is used to describe elements that can hold
+				lists of email addresses. Since a person can have many different email messages it makes
+				good sense to break out the type separately like this.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="type" type="xsd:string" minOccurs="0"/>
+			<xsd:element name="address" type="xsd:string"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	<xsd:complexType name="fieldType">
+		<xsd:annotation>
+			<xsd:documentation>The type fieldType is used to describe elements that can hold
+				information about any field not otherwise outlined.  They contain the type of the field
+				such as Date Of Birth and a value as a String.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="name" type="xsd:string"/>
+			<xsd:element name="value" type="xsd:string"/>
+		</xsd:sequence>
+	</xsd:complexType>
+
+</xsd:schema>

@@ -1,0 +1,71 @@
+<html>
+<head>
+	<title>Login</title>
+</head>
+<body>
+	<script lang="javascript">
+		function gup( name )
+		{
+			name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+			var regexS = "[\\?&]"+name+"=([^&#]*)";
+			var regex = new RegExp( regexS );
+			var results = regex.exec( window.location.href );
+			if( results == null )
+				return "";
+			else
+				return results[1];
+		}
+	</script>
+	
+	<form method="post" action="login.jsp">
+		<h2 align="center">Login</h2>
+		<table cellpadding="2" align="center">
+			<tr>
+				<td>Username:</td>
+				<td><input type="text" size="15" name="username" /></td>
+			</tr>
+			<tr>
+				<td>Password:</td>
+				<td><input type="password" size="15" name="password" /></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><input type="submit" value="Enter" /></td>
+			</tr>
+			<tr>
+				<td colspan="2">&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><a href="recover.html">Forgot your password?</a></td>
+			</tr>
+		</table>
+	</form>
+	
+	<script lang="javascript">
+		if (gup('error') == '0'){
+			document.write("<center>");
+			document.write(
+					"Please log in.");
+			document.write("</center>");
+		}
+		
+		else if (gup('error') == '1'){
+			document.write("<center>");
+			document.write(
+					"Incorrect username or password.");
+			document.write("</center>");
+		}
+		
+		else if (gup('error') == '2'){
+			document.write("<center>");
+			document.write(
+					"You have sent an invalid username or password. Please try again.")
+			document.write("</center>");
+		}
+	</script>
+	<noscript>
+		<center>
+			<b>This site will not function well unless JavaScript is turned on.</b>
+		</center>
+	</noscript>
+</body>
+</html>

@@ -1,0 +1,23 @@
+#!/bin/bash
+# 	FILE: start
+# 	SUBJECT: Start the WOW server in a Unix-friendly environment.
+#	DATE CREATED: 01/16/09
+#	DATE MODIFIED: 01/16/09
+#	
+# 	In the same directory, do:
+#	./start [arguments]
+#	Alternatively, call this script from /bin/sh. Please place Java on the executing user's
+#	PATH, or set the JAVA_PATH variable manually here.
+
+# Path to the Java interpreter (including the binary).
+JAVA_PATH=java
+
+# Classpath -- what Java will include into it's program path. Do not leave this blank.
+CLASSPATH=.
+
+# Path to the WOWd executable. This shouldn't be modified.
+EXECUTABLE=bin/WOWd.jar
+
+nohup $JAVA_PATH -classpath $CLASSPATH -jar $EXECUTABLE $1 $2 $3 > /dev/null 2>&1 &
+
+echo $0: WOW server was started as a daemon. Use 'ps x | grep WOWd' to check if it is running.

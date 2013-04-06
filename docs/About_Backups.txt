@@ -1,0 +1,9 @@
+WOW backups are handled every night by the main server's cronjob.
+
+Please set the location of the backup script to:
+/home/backup/conf/backup
+
+Set the location of the LOG variable (in the backup script) to:
+/home/backup/logs/log.txt
+
+Any events (including successful transfers) are placed in the log file.

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="build" name="wowClient">
+    <property environment="env"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.5"/>
+    <property name="source" value="1.5"/>
+	<property name="test.xml.dir" value="test-results\WOW"/>
+	<property name="web.dir" value="C:\\Program Files\\Apache Software Foundation\\Tomcat 6.0\\webapps\\ROOT\\webstart\\"/>
+    <path id="wowClient.classpath">
+        <pathelement location="build"/>
+        <pathelement location="junit4.3.1/junit-4.3.1.jar"/>
+    	<pathelement location="junit4.3.1/ant-junit.jar"/>
+		<pathelement location="libs/swing-layout-1.0.jar"/>
+		
+    </path>
+    <path id="test.classpath">
+        <pathelement location="build"/>
+        <pathelement location="junit4.3.1/junit-4.3.1.jar"/>
+    	<pathelement location="junit4.3.1/ant-junit.jar"/>
+		<pathelement location="libs/swing-layout-1.0.jar"/>
+    	 <pathelement location="test.xml"/>
+    </path>
+    <target name="init" depends="clean">
+        <mkdir dir="build"/>
+        <copy includeemptydirs="false" todir="build">
+            <fileset dir="." includes="images/*"/>
+        </copy>
+    	<copy file="test.xml" todir="build/test/sose/wowDA"/>
+    </target>
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <javac debug="true" debuglevel="${debuglevel}" destdir="build" source="${source}" target="${target}">
+            <src path="."/>
+            <exclude name=".classpath"/>
+            <exclude name=".project"/>
+            <exclude name="build/"/>
+        	<exclude name="junit4.3.1/"/>
+			<exclude name="libs/"/>
+            <classpath refid="wowClient.classpath"/>
+        </javac>
+    </target>
+	
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+	<target name="HelloWOW">
+        <java classname="src.sose.wowClient.HelloWOW" failonerror="true" fork="yes">
+            <classpath refid="wowClient.classpath"/>
+        </java>
+    </target>
+	
+	<target name="test" depends="build">
+		<delete dir="${test.xml.dir}"/>
+		<mkdir dir="${test.xml.dir}"/>
+		<copy file="test.xml" todir="../"/>
+		<junit fork="yes" printsummary="withOutAndErr" errorProperty="test.failed" failureProperty="test.failed">
+            <formatter type="xml"/>
+			<formatter type="brief" usefile="false" />
+			<test name="test.sose.wowClient.AllTests" todir="${test.xml.dir}"/>
+            <classpath refid="wowClient.classpath"/>
+			<classpath refid="test.classpath"/>
+		<sysproperty key="doc.dir" value="${doc.dir}" />
+		<sysproperty key="index.dir" value="${index.dir}" />
+        </junit>
+	</target>
+	
+	<target name="makeJarGUI" depends="build">
+		<copy file="libs/swing-layout-1.0.jar" todir="dist"/>
+		<copy file="wow.conf" todir="dist"/>
+		<copy file="Readme.txt" todir="dist"/>
+		<copy file="wow.xml" todir="dist"/>
+		<copy file="Wow.xsd" todir="dist"/>
+		<jar destfile="dist/WoWGUI.jar">
+			<fileset dir="build" includes="src/sose/wowDA/*, src/sose/wowLibs/*, src/sose/wowBL/*"/>
+			<fileset dir="build" includes="src/sose/wowClientGui/*" />
+			<fileset dir="." includes="images/*" />
+			
+	    	<manifest>
+	     	 	<attribute name="Main-Class" value="src.sose.wowClientGui.MainClientWindow"/>
+	    		<attribute name="Class-Path" value="swing-layout-1.0.jar"/>
+	    	</manifest>
+		</jar>
+	</target>	
+	
+	<target name="makeJarCLI" depends="build">
+			<copy file="libs/swing-layout-1.0.jar" todir="dist"/>
+			<copy file="wow.conf" todir="dist"/>
+		<copy file="wow.xml" todir="dist"/>
+		<copy file="Wow.xsd" todir="dist"/>
+			<jar destfile="dist/WoWCLI.jar">
+				<fileset dir="build" includes="src/sose/wowDA/*, src/sose/wowLibs/*, src/sose/wowBL/*"/>
+				<fileset dir="build" includes="src/sose/wowClient/*"/>
+		    	<manifest>
+		    		<attribute name="Main-Class" value="src.sose.wowClient.CLI"/>
+		    	</manifest>
+			</jar>
+		</target>	
+	
+	<target name="makeJarAdminGUI" depends="build">
+		<copy file="libs/swing-layout-1.0.jar" todir="dist"/>
+		<copy file="wow.conf" todir="dist"/>
+		<copy file="Readme.txt" todir="dist"/>
+		<copy file="wow.xml" todir="dist"/>
+		<copy file="Wow.xsd" todir="dist"/>
+		<jar destfile="dist/WoWAdminGUI.jar">
+			<fileset dir="build" includes="src/sose/wowDA/*, src/sose/wowLibs/*, src/sose/wowBL/*"/>
+			<fileset dir="build" includes="src/sose/wowAdminGui/*" />
+			<fileset dir="." includes="images/*" />
+			<fileset dir="." includes="dept-list.txt" />
+			<fileset dir="." includes="backupPage.htm" />
+			<fileset dir="." includes="backupFax.htm" />
+	    	<manifest>
+	     	 	<attribute name="Main-Class" value="src.sose.wowAdminGui.MainAdminWindow"/>
+	    		<attribute name="Class-Path" value="swing-layout-1.0.jar"/>
+	    	</manifest>
+		</jar>
+	</target>	
+	
+	<target name="makeJarBasicSearch" depends="build">
+		<copy file="libs/swing-layout-1.0.jar" todir="dist"/>
+		<copy file="wow.conf" todir="dist"/>
+		<copy file="Readme.txt" todir="dist"/>
+		<copy file="wow.xml" todir="dist"/>
+		<copy file="Wow.xsd" todir="dist"/>
+		<fileset dir="." includes="dept-list.txt" />
+		<fileset dir="." includes="backupPage.htm" />
+		<fileset dir="." includes="backupFax.htm" />
+		<jar destfile="dist/WoWBasic.jar">
+			<fileset dir="build" includes="src/sose/wowDA/*, src/sose/wowLibs/*, src/sose/wowBL/*"/>
+			<fileset dir="build" includes="src/sose/wowBasicSearch/*" />
+			<fileset dir="." includes="images/*" />
+			<fileset dir="." includes="wow.conf, Readme.txt, wow.xml, Wow.xsd" />
+	    	<manifest>
+	     	 	<attribute name="Main-Class" value="src.sose.wowBasicSearch.MainClientGUIBasic"/>
+	    		<attribute name="Class-Path" value="swing-layout-1.0.jar"/>
+	    	</manifest>
+		</jar>
+	</target>	
+	
+	 <target name="makeAllJars" depends="makeJarGUI, makeJarCLI, makeJarAdminGUI, makeJarBasicSearch, makeWebStart" />
+	
+	<target name="makeWebStart" depends="build">
+		<copy file="wow.conf" todir="config"/>
+		<copy file="Readme.txt" todir="config"/>
+		<jar destfile="dist/WebStartBasic.jar">
+			<fileset dir="build" includes="src/sose/wowDA/*, src/sose/wowLibs/*, src/sose/wowBL/*"/>
+			<fileset dir="build" includes="src/sose/wowBasicSearch/*" />
+			<fileset dir="." includes="images/*" />
+			<fileset dir="." includes="config/*"/>
+	    	<manifest>
+	     	 	<attribute name="Main-Class" value="src.sose.wowBasicSearch.WebStartBasic"/>
+	    		<attribute name="Class-Path" value="swing-layout-1.0.jar"/>
+	      	</manifest>
+		</jar>
+	</target>	
+	
+	<!-- This target will sign both jars and copy them into a web folder indicated in the property web.dir. This is a 
+	slash and burn type of signing (generally not recommended), where the keys are generated every time you run this
+	target, as opposed to using the same one over again. I had some initial problems with doing it that way, but I'll fix
+	it before too long. -Boomer -->
+	<target name="signJar" depends="makeAllJars">
+		<property name="web.dir" value="C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/ROOT/webstart/"/>
+	    <property name="key.alias" value="http://quicksilver.ecet.vtc.edu/"/>
+	    <property name="keystore.location" value="dist/project.keys"/>
+	    <property name="keystore.password" value="password"/>
+		<delete file="dist/project.keys"/>
+		<delete file="dist/WebStartBasic_signed.jar"/>
+		<delete file="dist/swing-layout-1.0_signed.jar"/>
+		<delete file="${web.dir}/WebStartBasic_signed.jar"/>
+		<delete file="${web.dir}/swing-layout-1.0_signed.jar"/>
+	    <genkey alias="${key-alias}" keystore="${keystore.location}" storepass="${keystore.password}" validity="3650" dname="CN=VTC, OU=WOW, O=VTC, C=US"/>
+	    <signjar jar="dist/WebStartBasic.jar" signedjar="dist/WebStartBasic_signed.jar" alias="${key-alias}" keystore="${keystore.location}" storepass="${keystore.password}"/>
+		<signjar jar="dist/swing-layout-1.0.jar" signedjar="dist/swing-layout-1.0_signed.jar" alias="${key-alias}" keystore="${keystore.location}" storepass="${keystore.password}"/>
+		<copy file="dist/WebStartBasic_signed.jar" todir="${web.dir}"/>
+		<copy file="dist/swing-layout-1.0_signed.jar" todir="${web.dir}"/>
+	</target>
+	
+	<target name="makeJavaDocs" depends="build">
+	  <exec executable="cmd">
+	    <arg value="/c"/>
+	    <arg value="run-javadoc.bat"/>
+	    <arg value="-p"/>
+	  </exec>
+	</target>
+	
+</project>

@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+
+<!--
+	The wow.xsd schema will define the rules and limitations of the WOW XML document.
+	This schema is meant to be the standard to use across all implementations of the WOW server.
+	wow.xsd is only suitable for version 1.0 of WOW.  Version 1.0 insists that there are exactly 8 unique fields and an ID field.
+	Version 2.0 will be much more flexible.
+-->
+
+<!-- Define XML namespace. -->
+<xsd:schema xmlns="http://frolic.ecet.vtc.edu/XML/WOW" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	targetNamespace="http://frolic.ecet.vtc.edu/XML/WOW">
+
+	<!-- Define root element. -->
+	<xsd:element name="data-group">
+		<xsd:annotation>
+			<xsd:documentation>
+				The data group is the root element of the WOW XML database.  This is where all of the magic happens.
+				This node hosts the departments and people elements, who have no relationship to their parent.
+			</xsd:documentation>
+		</xsd:annotation>
+		<!-- Describe this element. -->
+		<xsd:complexType>
+			<xsd:sequence>
+				<!-- Allow 1 and only 1 departments and people element. -->
+				<xsd:element ref="departments" />
+				<xsd:element ref="people" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<!-- Define departments element. -->
+	<xsd:element name="departments">
+		<xsd:annotation>
+			<xsd:documentation>
+				Departments are very simple:  the only significant, consistent information that needs to be tracked is the
+				department's name.  While simple, it's also important for the integrity of the database; after all, we can't have
+				people added to departments that don't exist.
+			</xsd:documentation>
+		</xsd:annotation>
+		<!-- Define what kind of children this node has. -->
+		<xsd:complexType>
+			<xsd:sequence>
+				<!-- Allow any number of departments. -->
+				<xsd:element name="entry" type="entryType" minOccurs="0" maxOccurs="unbounded" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<!-- Define a complex type to describe a single department entry. -->
+	<xsd:complexType name="entryType">
+		<xsd:annotation>
+			<xsd:documentation>
+				The entry type is a single department entity.  It's children describe that department.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<!-- An entry contains exactly 1 name. -->
+			<xsd:element name="name" type="xsd:string" />
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	<!-- Define people element. -->
+	<xsd:element name="people">
+		<xsd:annotation>
+			<xsd:documentation>
+				The people element contains any number of records.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<!-- Every person has a record. Allow unlimited records. -->
+				<xsd:element ref="record" minOccurs="0" maxOccurs="unbounded" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<!-- Define people->record element. -->
+	<xsd:element name="record">
+		<xsd:annotation>
+			<xsd:documentation>
+				A record is a person, the real meat of the database.  Every record must have a unique identifying number.
+				While a first name, last name, phone number and e-mail address combined will 99.9% of the time provide a unique
+				record, there's still a 0.1% chance that it might fail - that, and it's simply too many keys.  The solution was to
+				create a surrogate key called "ID" which should be incremented every new record.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<!-- Make ID a unique key. -->
+				<xsd:element name="id" type="idType" maxOccurs="1">
+					<xsd:unique name="idKey">
+						<xsd:selector xpath="*/record/" />
+						<xsd:field xpath="@id" />
+					</xsd:unique>
+				</xsd:element>
+				<!-- Make way for fields.  It must have exactly 8 of a field. -->
+				<xsd:element name="field" type="fieldType" minOccurs="9" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<!-- Define how an ID should be. -->
+	<xsd:simpleType name="idType">
+		<xsd:restriction base="xsd:integer">
+			<xsd:minInclusive value="0" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- Define how a field should be. -->
+	<xsd:complexType name="fieldType">
+		<!-- Force it to use the attribute "name". -->
+		<xsd:attribute name="name" use="required">
+			<xsd:simpleType>
+				<!-- Force it to use only the names below. -->
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="First Name" />
+					<xsd:enumeration value="Last Name" />
+					<xsd:enumeration value="Phone Number" />
+					<xsd:enumeration value="Email" />
+					<xsd:enumeration value="Campus" />
+					<xsd:enumeration value="Role" />
+					<xsd:enumeration value="Department" />
+					<xsd:enumeration value="Fax" />
+					<xsd:enumeration value="Office" />
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:complexType>
+</xsd:schema>

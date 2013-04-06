@@ -1,0 +1,5311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data-group>
+	<departments>
+		<entry>
+			<name>Academic Dean's Office</name>
+		</entry>
+		<entry>
+			<name>Academic Scheduler</name>
+		</entry>
+		<entry>
+			<name>Admissions</name>
+		</entry>
+		<entry>
+			<name>Alumni Affairs</name>
+		</entry>
+		<entry>
+			<name>Aramark</name>
+		</entry>
+		<entry>
+			<name>Architect &amp; Bldg. Eng. Tech.</name>
+		</entry>
+		<entry>
+			<name>Automotive Tech.</name>
+		</entry>
+		<entry>
+			<name>Biotechnology</name>
+		</entry>
+		<entry>
+			<name>Bookstore</name>
+		</entry>
+		<entry>
+			<name>Business Office</name>
+		</entry>
+		<entry>
+			<name>Business Tech. &amp; Mgmt.</name>
+		</entry>
+		<entry>
+			<name>Career Center</name>
+		</entry>
+		<entry>
+			<name>Civil &amp; Environmental Eng.</name>
+		</entry>
+		<entry>
+			<name>Conference &amp; Planning Coord.</name>
+		</entry>
+		<entry>
+			<name>Construction Practice Mgmt.</name>
+		</entry>
+		<entry>
+			<name>Dairy Farm Mgmt.</name>
+		</entry>
+		<entry>
+			<name>Dental Hygiene</name>
+		</entry>
+		<entry>
+			<name>Electrical &amp; Computer Eng. Tech.</name>
+		</entry>
+		<entry>
+			<name>English, Humanities, &amp; Social Sci.</name>
+		</entry>
+		<entry>
+			<name>Equine Studies</name>
+		</entry>
+		<entry>
+			<name>Farmstead</name>
+		</entry>
+		<entry>
+			<name>Fax Numbers (ALL)</name>
+		</entry>
+		<entry>
+			<name>Financial Aid</name>
+		</entry>
+		<entry>
+			<name>Fire Science</name>
+		</entry>
+		<entry>
+			<name>Health Center</name>
+		</entry>
+		<entry>
+			<name>Human Resources</name>
+		</entry>
+		<entry>
+			<name>IBM Project</name>
+		</entry>
+		<entry>
+			<name>Information Science Tech.</name>
+		</entry>
+		<entry>
+			<name>Information Tech. (IT)</name>
+		</entry>
+		<entry>
+			<name>Institutional Advancement</name>
+		</entry>
+		<entry>
+			<name>Laboratory Technicians</name>
+		</entry>
+		<entry>
+			<name>Landscape, Dev. &amp; Orn. Horticulture</name>
+		</entry>
+		<entry>
+			<name>Library</name>
+		</entry>
+		<entry>
+			<name>Maintenance</name>
+		</entry>
+		<entry>
+			<name>Marketing</name>
+		</entry>
+		<entry>
+			<name>Mathematics</name>
+		</entry>
+		<entry>
+			<name>Mechanical Eng. Tech.</name>
+		</entry>
+		<entry>
+			<name>Nursing</name>
+		</entry>
+		<entry>
+			<name>President's Office</name>
+		</entry>
+		<entry>
+			<name>Professional Development</name>
+		</entry>
+		<entry>
+			<name>Randolph Direct Hire Students</name>
+		</entry>
+		<entry>
+			<name>Randolph Work-Study Students</name>
+		</entry>
+		<entry>
+			<name>Registrar</name>
+		</entry>
+		<entry>
+			<name>Residential Directors</name>
+		</entry>
+		<entry>
+			<name>Respiratory Therapy</name>
+		</entry>
+		<entry>
+			<name>Small Business Dev. Ctr. (SBDC)</name>
+		</entry>
+		<entry>
+			<name>Science</name>
+		</entry>
+		<entry>
+			<name>Security</name>
+		</entry>
+		<entry>
+			<name>SHAPE</name>
+		</entry>
+		<entry>
+			<name>Student Affairs</name>
+		</entry>
+		<entry>
+			<name>Student Support Services</name>
+		</entry>
+		<entry>
+			<name>Sustainable Design</name>
+		</entry>
+		<entry>
+			<name>Switchboard/Reception</name>
+		</entry>
+		<entry>
+			<name>Technology Ext. Div. (TED)</name>
+		</entry>
+		<entry>
+			<name>Tech. Prep.</name>
+		</entry>
+		<entry>
+			<name>Vermont Interactive TV (VIT)</name>
+		</entry>
+		<entry>
+			<name>Veterinary Tech.</name>
+		</entry>
+		<entry>
+			<name>VISTA/Americorps</name>
+		</entry>
+		<entry>
+			<name>VMEC</name>
+		</entry>
+		<entry>
+			<name>VSC</name>
+		</entry>
+		<entry>
+			<name>Writing &amp; Comm. Center</name>
+		</entry>
+		<entry>
+			<name>Williston Direct Hire Students</name>
+		</entry>
+		<entry>
+			<name>Williston Work-Study Students</name>
+		</entry>
+		<entry>
+			<name>Williston Staff</name>
+		</entry>
+	</departments>
+	<people>
+		<record>
+			<id>0</id>
+			<field name="First Name">Faye</field>
+			<field name="Last Name">Bacon</field>
+			<field name="Phone Number">(802)879-5972</field>
+			<field name="Email">fbacon@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Respiratory Therapy</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">107</field>
+		</record>
+		<record>
+			<id>1</id>
+			<field name="First Name">Chris</field>
+			<field name="Last Name">Beattie</field>
+			<field name="Phone Number">(802)879-2367</field>
+			<field name="Email">cbeattie@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Information Tech. (IT)</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">229</field>
+		</record>
+		<record>
+			<id>2</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">Boyle</field>
+			<field name="Phone Number">(802)879-5991</field>
+			<field name="Email">mboyle@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">109</field>
+		</record>
+		<record>
+			<id>3</id>
+			<field name="First Name">Anne</field>
+			<field name="Last Name">Carvey</field>
+			<field name="Phone Number">(802)879-5973</field>
+			<field name="Email">acarvey@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">109</field>
+		</record>
+		<record>
+			<id>4</id>
+			<field name="First Name">Jean-Marie</field>
+			<field name="Last Name">Clark</field>
+			<field name="Phone Number">(802)879-2322</field>
+			<field name="Email">jclark@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Williston Staff</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">240</field>
+		</record>
+		<record>
+			<id>5</id>
+			<field name="First Name">Beverly</field>
+			<field name="Last Name">Cloutier</field>
+			<field name="Phone Number">(802)879-2368</field>
+			<field name="Email">bcloutier@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Williston Staff</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">B200 Reception</field>
+		</record>
+		<record>
+			<id>6</id>
+			<field name="First Name">Elizabeth</field>
+			<field name="Last Name">Derouchie</field>
+			<field name="Phone Number">(802)879-5966</field>
+			<field name="Email">ederouchie@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">101</field>
+		</record>
+		<record>
+			<id>7</id>
+			<field name="First Name">Janet</field>
+			<field name="Last Name">Dooley</field>
+			<field name="Phone Number">(802)879-2380</field>
+			<field name="Email">jdooley@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Technology Ext. Div. (TED)</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">236</field>
+		</record>
+		<record>
+			<id>8</id>
+			<field name="First Name">Janet</field>
+			<field name="Last Name">Dupont</field>
+			<field name="Phone Number">(802)879-5969</field>
+			<field name="Email">jdupont@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">104</field>
+		</record>
+		<record>
+			<id>9</id>
+			<field name="First Name">Nancy</field>
+			<field name="Last Name">Eicker</field>
+			<field name="Phone Number">(802)879-5971</field>
+			<field name="Email">neicker@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">106</field>
+		</record>
+		<record>
+			<id>10</id>
+			<field name="First Name">Kim</field>
+			<field name="Last Name">Evans</field>
+			<field name="Phone Number">(802)899-1730</field>
+			<field name="Email">kevans@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>11</id>
+			<field name="First Name">Matt</field>
+			<field name="Last Name">Gallagher</field>
+			<field name="Phone Number">(802)879-2324</field>
+			<field name="Email">mgallagher@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax">(802)879-2323</field>
+			<field name="Office">226</field>
+		</record>
+		<record>
+			<id>12</id>
+			<field name="First Name">Ellen</field>
+			<field name="Last Name">Grimes</field>
+			<field name="Phone Number">(802)879-5643</field>
+			<field name="Email">egrimes@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>13</id>
+			<field name="First Name">Leslie</field>
+			<field name="Last Name">Hills</field>
+			<field name="Phone Number">(802)879-2311</field>
+			<field name="Email">lhills@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>14</id>
+			<field name="First Name">Sean</field>
+			<field name="Last Name">Larock</field>
+			<field name="Phone Number">(802)879-2388</field>
+			<field name="Email">slarock@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Laboratory Technicians</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">238</field>
+		</record>
+		<record>
+			<id>15</id>
+			<field name="First Name">Ray</field>
+			<field name="Last Name">Lawrence</field>
+			<field name="Phone Number">(802)343-7737</field>
+			<field name="Email">ray1realty@together.net</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Williston Staff</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">421</field>
+		</record>
+		<record>
+			<id>16</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">Lew</field>
+			<field name="Phone Number">(802)879-2316</field>
+			<field name="Email">mlew@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>17</id>
+			<field name="First Name">Don</field>
+			<field name="Last Name">Manders</field>
+			<field name="Phone Number">(802)879-2329</field>
+			<field name="Email">dmanders@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Writing &amp; Comm. Center</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>18</id>
+			<field name="First Name">Tina</field>
+			<field name="Last Name">Marshall</field>
+			<field name="Phone Number">(802)879-2314</field>
+			<field name="Email">tmarshall@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>19</id>
+			<field name="First Name">Michelle</field>
+			<field name="Last Name">McKay</field>
+			<field name="Phone Number">(802)879-2316</field>
+			<field name="Email">mmckay@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>20</id>
+			<field name="First Name">Sue</field>
+			<field name="Last Name">Leister</field>
+			<field name="Phone Number">(802)879-5971</field>
+			<field name="Email">sleister@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">103</field>
+		</record>
+		<record>
+			<id>21</id>
+			<field name="First Name">Jacqueline</field>
+			<field name="Last Name">Truex-Greenslet</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email">JTruex-Greenslet@vtc.vsc.edu</field>
+			<field name="Campus">Bennington</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)447-5218</field>
+			<field name="Office">Putnam/Bennington</field>
+		</record>
+		<record>
+			<id>22</id>
+			<field name="First Name">Marc</field>
+			<field name="Last Name">Aaron</field>
+			<field name="Phone Number">(802)728-1725</field>
+			<field name="Email">maaron@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204C</field>
+		</record>
+		<record>
+			<id>23</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">Adjunct Office</field>
+			<field name="Phone Number">(802)879-2320</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department">Adjunct Office</field>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>24</id>
+			<field name="First Name">Cheryl</field>
+			<field name="Last Name">Aiken</field>
+			<field name="Phone Number">(802)728-1722</field>
+			<field name="Email">caiken@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Pharmacy Tech</field>
+			<field name="Fax"/>
+			<field name="Office">Green 102B</field>
+		</record>
+		<record>
+			<id>25</id>
+			<field name="First Name">Jean</field>
+			<field name="Last Name">Alexander</field>
+			<field name="Phone Number">(802)728-1526</field>
+			<field name="Email">jalexander@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 107</field>
+		</record>
+		<record>
+			<id>26</id>
+			<field name="First Name">Nancy</field>
+			<field name="Last Name">Aitken</field>
+			<field name="Phone Number">(802)728-1236</field>
+			<field name="Email">naitken@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Library</field>
+			<field name="Fax">(802)728-1506</field>
+			<field name="Office">Library</field>
+		</record>
+		<record>
+			<id>27</id>
+			<field name="First Name">Jim</field>
+			<field name="Last Name">Allen</field>
+			<field name="Phone Number">(802)728-1768</field>
+			<field name="Email">jallen@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Library</field>
+			<field name="Fax">(802)728-1506</field>
+			<field name="Office">Library</field>
+		</record>
+		<record>
+			<id>28</id>
+			<field name="First Name">Ralph</field>
+			<field name="Last Name">Allen</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">rallen@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>29</id>
+			<field name="First Name">Colin</field>
+			<field name="Last Name">Andrzejczyk</field>
+			<field name="Phone Number">(802)728-1270</field>
+			<field name="Email">candrzejczyk@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Health Center</field>
+			<field name="Fax"/>
+			<field name="Office">Health Center M&amp;W</field>
+		</record>
+		<record>
+			<id>30</id>
+			<field name="First Name">Pam</field>
+			<field name="Last Name">Ankuda</field>
+			<field name="Phone Number">(802)728-1530</field>
+			<field name="Email">pankuda@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Human Resources</field>
+			<field name="Fax">(802)728-1508</field>
+			<field name="Office">Admin 211</field>
+		</record>
+		<record>
+			<id>31</id>
+			<field name="First Name">George</field>
+			<field name="Last Name">Ambrose</field>
+			<field name="Phone Number">(802)770-1032</field>
+			<field name="Email">gambrose@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Stafford Technical Ctr.</field>
+		</record>
+		<record>
+			<id>32</id>
+			<field name="First Name">Kirk</field>
+			<field name="Last Name">Ashworth</field>
+			<field name="Phone Number">(802)728-1447</field>
+			<field name="Email">kashworth@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 102D</field>
+		</record>
+		<record>
+			<id>33</id>
+			<field name="First Name">Associated Students</field>
+			<field name="Last Name">ASVTC</field>
+			<field name="Phone Number">(802)728-1619</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Morey</field>
+		</record>
+		<record>
+			<id>34</id>
+			<field name="First Name">Richard</field>
+			<field name="Last Name">Baker</field>
+			<field name="Phone Number">(802)728-1316</field>
+			<field name="Email">rbaker@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Architect &amp; Bldg. Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 131</field>
+		</record>
+		<record>
+			<id>35</id>
+			<field name="First Name">Sheila</field>
+			<field name="Last Name">Bannister</field>
+			<field name="Phone Number">(802)879-2316</field>
+			<field name="Email">sbannister@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>36</id>
+			<field name="First Name">David</field>
+			<field name="Last Name">Barcomb</field>
+			<field name="Phone Number">(802)728-1581</field>
+			<field name="Email">dbarcomb@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 204B</field>
+		</record>
+		<record>
+			<id>37</id>
+			<field name="First Name">Denny</field>
+			<field name="Last Name">Barnard</field>
+			<field name="Phone Number">(802)728-1376</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Architectural</field>
+			<field name="Fax"/>
+			<field name="Office">Green 131</field>
+		</record>
+		<record>
+			<id>38</id>
+			<field name="First Name">Nagi</field>
+			<field name="Last Name">Basha</field>
+			<field name="Phone Number">(802)879-8241</field>
+			<field name="Email">nbasha@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>39</id>
+			<field name="First Name">Debra</field>
+			<field name="Last Name">Baslow</field>
+			<field name="Phone Number">(802)728-1776</field>
+			<field name="Email">dbaslow@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Architect &amp; Bldg. Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204G</field>
+		</record>
+		<record>
+			<id>40</id>
+			<field name="First Name">Graham</field>
+			<field name="Last Name">Bauerle</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">graham.bauerle@jsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>41</id>
+			<field name="First Name">Russell</field>
+			<field name="Last Name">Baum</field>
+			<field name="Phone Number">(802)728-1381</field>
+			<field name="Email">rbaum@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">SHAPE</field>
+		</record>
+		<record>
+			<id>42</id>
+			<field name="First Name">Steve</field>
+			<field name="Last Name">Belitsos</field>
+			<field name="Phone Number">(802)728-1606</field>
+			<field name="Email">sbelitsos@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Automotive Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Automotive Tech. 111</field>
+		</record>
+		<record>
+			<id>43</id>
+			<field name="First Name">Susan T</field>
+			<field name="Last Name">Benson</field>
+			<field name="Phone Number">(802)728-1248</field>
+			<field name="Email">sbenson@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Financial Aid</field>
+			<field name="Fax">(802)728-1436</field>
+			<field name="Office">Admin 109</field>
+		</record>
+		<record>
+			<id>44</id>
+			<field name="First Name">Susan R</field>
+			<field name="Last Name">Benson</field>
+			<field name="Phone Number">(802)728-1581</field>
+			<field name="Email">sbenson3@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204B</field>
+		</record>
+		<record>
+			<id>45</id>
+			<field name="First Name">Lori</field>
+			<field name="Last Name">Berger</field>
+			<field name="Phone Number">(802)728-1581</field>
+			<field name="Email">lberger@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Equine Studies</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204B</field>
+		</record>
+		<record>
+			<id>46</id>
+			<field name="First Name">Christine</field>
+			<field name="Last Name">Black</field>
+			<field name="Phone Number">(802)728-1267</field>
+			<field name="Email">cblack@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax">(802)728-1314</field>
+			<field name="Office">Admin 218</field>
+		</record>
+		<record>
+			<id>47</id>
+			<field name="First Name">Calvin</field>
+			<field name="Last Name">Blessing</field>
+			<field name="Phone Number">(802)728-1345</field>
+			<field name="Email">cblessing@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Agriculture</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 229</field>
+		</record>
+		<record>
+			<id>48</id>
+			<field name="First Name">Jenna</field>
+			<field name="Last Name">Blondel</field>
+			<field name="Phone Number">(802)728-1453</field>
+			<field name="Email">jblondel@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 207</field>
+		</record>
+		<record>
+			<id>49</id>
+			<field name="First Name">Karry</field>
+			<field name="Last Name">Booska</field>
+			<field name="Phone Number">(802)728-1242</field>
+			<field name="Email">kbooska@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Admissions</field>
+			<field name="Fax">(802)728-1321</field>
+			<field name="Office">Admin 132</field>
+		</record>
+		<record>
+			<id>50</id>
+			<field name="First Name">Andrew</field>
+			<field name="Last Name">Booth</field>
+			<field name="Phone Number">(802)728-1228</field>
+			<field name="Email">abooth@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mechanical Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 116</field>
+		</record>
+		<record>
+			<id>51</id>
+			<field name="First Name">Sidney</field>
+			<field name="Last Name">Bosworth</field>
+			<field name="Phone Number"/>
+			<field name="Email">sbosworth@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department">Agriculture</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 229</field>
+		</record>
+		<record>
+			<id>52</id>
+			<field name="First Name">Robert</field>
+			<field name="Last Name">Bouthillier</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">rbouthillier@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>53</id>
+			<field name="First Name">Matthew</field>
+			<field name="Last Name">Boyden</field>
+			<field name="Phone Number">(802)728-1712</field>
+			<field name="Email">mboyden@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mechanical Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 114</field>
+		</record>
+		<record>
+			<id>54</id>
+			<field name="First Name">Susan</field>
+			<field name="Last Name">Boyer</field>
+			<field name="Phone Number">(802)447-5419</field>
+			<field name="Email"/>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Extended Campus</field>
+		</record>
+		<record>
+			<id>55</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">Boyle cell</field>
+			<field name="Phone Number">(603)252-7898</field>
+			<field name="Email">mboyle@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>56</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">Boyle</field>
+			<field name="Phone Number">(802)728-1701</field>
+			<field name="Email">mboyle@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)728-1390</field>
+			<field name="Office">Morrill Addition 113</field>
+		</record>
+		<record>
+			<id>57</id>
+			<field name="First Name">Michael</field>
+			<field name="Last Name">Bozonie</field>
+			<field name="Phone Number">(802)728-1776</field>
+			<field name="Email">mbozonie@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 204G</field>
+		</record>
+		<record>
+			<id>58</id>
+			<field name="First Name">Robert</field>
+			<field name="Last Name">Bradford</field>
+			<field name="Phone Number">(802)728-1447</field>
+			<field name="Email">rbradford@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 102D</field>
+		</record>
+		<record>
+			<id>59</id>
+			<field name="First Name">Chuck</field>
+			<field name="Last Name">Bradley</field>
+			<field name="Phone Number">(802)728-1381</field>
+			<field name="Email">cbradley@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">SHAPE</field>
+		</record>
+		<record>
+			<id>60</id>
+			<field name="First Name">Carl</field>
+			<field name="Last Name">Brandon</field>
+			<field name="Phone Number">(802)728-1350</field>
+			<field name="Email">cbrandon@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Science</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 308</field>
+		</record>
+		<record>
+			<id>61</id>
+			<field name="First Name">Ann</field>
+			<field name="Last Name">Brandon</field>
+			<field name="Phone Number">(802)728-1438</field>
+			<field name="Email">abrandon@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 102B</field>
+		</record>
+		<record>
+			<id>62</id>
+			<field name="First Name">Karl</field>
+			<field name="Last Name">Bresee</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>63</id>
+			<field name="First Name">William</field>
+			<field name="Last Name">Brownlee</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">wbrownlee@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>64</id>
+			<field name="First Name">Richard</field>
+			<field name="Last Name">Bryfogle</field>
+			<field name="Phone Number">(802)728-1439</field>
+			<field name="Email">rbryfogle@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 228</field>
+		</record>
+		<record>
+			<id>65</id>
+			<field name="First Name">Carol</field>
+			<field name="Last Name">Buchdahl</field>
+			<field name="Phone Number">(802)869-1160</field>
+			<field name="Email">cbuchdahl@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department">Technology Ext. Div. (TED)</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>66</id>
+			<field name="First Name">Nancy</field>
+			<field name="Last Name">Budd</field>
+			<field name="Phone Number">(802)251-2089</field>
+			<field name="Email">ncoleman@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>67</id>
+			<field name="First Name">Sonya</field>
+			<field name="Last Name">Burdge</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email"/>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Putnam/Bennington</field>
+		</record>
+		<record>
+			<id>68</id>
+			<field name="First Name">Gordan</field>
+			<field name="Last Name">Burch</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">gburch@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Maitenance</field>
+		</record>
+		<record>
+			<id>69</id>
+			<field name="First Name">Candy</field>
+			<field name="Last Name">Burrell</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Maitenance</field>
+		</record>
+		<record>
+			<id>70</id>
+			<field name="First Name">Dawn</field>
+			<field name="Last Name">Carleton</field>
+			<field name="Phone Number">(802)728-1221</field>
+			<field name="Email">dcarleton@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 215A</field>
+		</record>
+		<record>
+			<id>71</id>
+			<field name="First Name">Michelle</field>
+			<field name="Last Name">Carner</field>
+			<field name="Phone Number">(802)879-5965</field>
+			<field name="Email">mcarner@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Respiratory Therapy</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>72</id>
+			<field name="First Name">Mark</field>
+			<field name="Last Name">Carter</field>
+			<field name="Phone Number">(802)769-1960</field>
+			<field name="Email">mcarter@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">IBM Project</field>
+			<field name="Fax"/>
+			<field name="Office">IBM Essex Junction</field>
+		</record>
+		<record>
+			<id>73</id>
+			<field name="First Name">Chuck</field>
+			<field name="Last Name">Cassidy</field>
+			<field name="Phone Number">(802)728-1330</field>
+			<field name="Email">ccassidy@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>74</id>
+			<field name="First Name">Charles</field>
+			<field name="Last Name">Castelli</field>
+			<field name="Phone Number">(802)728-1397</field>
+			<field name="Email">ccastelli@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Support Services</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 221</field>
+		</record>
+		<record>
+			<id>75</id>
+			<field name="First Name">Bonnie</field>
+			<field name="Last Name">Chamberlin</field>
+			<field name="Phone Number">(802)728-1422</field>
+			<field name="Email">bchamberlin@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Technology Ext. Div. (TED)</field>
+			<field name="Fax"/>
+			<field name="Office">Judd 106</field>
+		</record>
+		<record>
+			<id>76</id>
+			<field name="First Name">Jill</field>
+			<field name="Last Name">Chapleau</field>
+			<field name="Phone Number">(802)728-1226</field>
+			<field name="Email">jchapleau@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Veterinary Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill 103</field>
+		</record>
+		<record>
+			<id>77</id>
+			<field name="First Name">Carol</field>
+			<field name="Last Name">Chase</field>
+			<field name="Phone Number">(802)728-1249</field>
+			<field name="Email">cchase@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 220</field>
+		</record>
+		<record>
+			<id>78</id>
+			<field name="First Name">Linda</field>
+			<field name="Last Name">Chesaux</field>
+			<field name="Phone Number">(802)728-1445</field>
+			<field name="Email">lchesaux@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Admissions</field>
+			<field name="Fax">(802)728-1321</field>
+			<field name="Office">Admin 132</field>
+		</record>
+		<record>
+			<id>79</id>
+			<field name="First Name">Jean-Marie cell</field>
+			<field name="Last Name">Clark</field>
+			<field name="Phone Number">(802)236-2878</field>
+			<field name="Email">jclark@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Williston Staff</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">240</field>
+		</record>
+		<record>
+			<id>80</id>
+			<field name="First Name">Catherine</field>
+			<field name="Last Name">Clark</field>
+			<field name="Phone Number">(802)728-1341</field>
+			<field name="Email">cclark@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)728-1390</field>
+			<field name="Office">Morrill Addition 112</field>
+		</record>
+		<record>
+			<id>81</id>
+			<field name="First Name">Carrie</field>
+			<field name="Last Name">Clement</field>
+			<field name="Phone Number">(802)728-1513</field>
+			<field name="Email">cclement@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Alumni Affairs</field>
+			<field name="Fax">(802)728-1321</field>
+			<field name="Office">Admin 103</field>
+		</record>
+		<record>
+			<id>82</id>
+			<field name="First Name">Susan</field>
+			<field name="Last Name">Cliff</field>
+			<field name="Phone Number">(802)728-1438</field>
+			<field name="Email">scliff@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 102B</field>
+		</record>
+		<record>
+			<id>83</id>
+			<field name="First Name">Roni</field>
+			<field name="Last Name">Coleman</field>
+			<field name="Phone Number">(802)728-1715</field>
+			<field name="Email">rcoleman@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Sustainable Design</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 220</field>
+		</record>
+		<record>
+			<id>84</id>
+			<field name="First Name">Fred</field>
+			<field name="Last Name">Collins</field>
+			<field name="Phone Number">(802)728-1292</field>
+			<field name="Email">fcollins@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Security</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 122</field>
+		</record>
+		<record>
+			<id>85</id>
+			<field name="First Name">Jeannette</field>
+			<field name="Last Name">Eicks</field>
+			<field name="Phone Number">(802)728-1581</field>
+			<field name="Email">jeicks@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Science</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204B</field>
+		</record>
+		<record>
+			<id>86</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">Electronics Lab</field>
+			<field name="Phone Number">(802)879-2372</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston 216</field>
+		</record>
+		<record>
+			<id>87</id>
+			<field name="First Name">Ralph</field>
+			<field name="Last Name">Esposito</field>
+			<field name="Phone Number">(802)728-1219</field>
+			<field name="Email">resposito@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 203</field>
+		</record>
+		<record>
+			<id>88</id>
+			<field name="First Name">Paul</field>
+			<field name="Last Name">Evans</field>
+			<field name="Phone Number">(802)728-1227</field>
+			<field name="Email">pevans@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Information Tech. (IT)</field>
+			<field name="Fax"/>
+			<field name="Office">Morril 131</field>
+		</record>
+		<record>
+			<id>89</id>
+			<field name="First Name">Kim</field>
+			<field name="Last Name">Evans</field>
+			<field name="Phone Number">(802)728-1705</field>
+			<field name="Email">kevans@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office">Morril Addition 113</field>
+		</record>
+		<record>
+			<id>90</id>
+			<field name="First Name">Intern</field>
+			<field name="Last Name">Farm</field>
+			<field name="Phone Number">(802)728-1524</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Farmstead</field>
+			<field name="Fax"/>
+			<field name="Office">Farm</field>
+		</record>
+		<record>
+			<id>91</id>
+			<field name="First Name">Manager</field>
+			<field name="Last Name">Farm</field>
+			<field name="Phone Number">(802)728-1265</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Farm Manager</field>
+			<field name="Fax"/>
+			<field name="Office">Farm</field>
+		</record>
+		<record>
+			<id>92</id>
+			<field name="First Name">Geoffrey</field>
+			<field name="Last Name">Farnum</field>
+			<field name="Phone Number">(802)728-1722</field>
+			<field name="Email">gfarnum@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)728-1390</field>
+			<field name="Office">Green 102C</field>
+		</record>
+		<record>
+			<id>93</id>
+			<field name="First Name">Nick</field>
+			<field name="Last Name">Farrington</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">nfarrington@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>94</id>
+			<field name="First Name">Amy</field>
+			<field name="Last Name">Ferris</field>
+			<field name="Phone Number">(802)728-4834</field>
+			<field name="Email">aferris@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Tech. Prep.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>95</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">Findley</field>
+			<field name="Phone Number">(802)728-1240</field>
+			<field name="Email">mfindley@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 230</field>
+		</record>
+		<record>
+			<id>96</id>
+			<field name="First Name">Debbie</field>
+			<field name="Last Name">Frank</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">dfrank@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>97</id>
+			<field name="First Name">Emile</field>
+			<field name="Last Name">Fredette</field>
+			<field name="Phone Number">(802)728-1292</field>
+			<field name="Email">efredette@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Security</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 122</field>
+		</record>
+		<record>
+			<id>98</id>
+			<field name="First Name">Susan</field>
+			<field name="Last Name">Fredette</field>
+			<field name="Phone Number">(802)728-1322</field>
+			<field name="Email">sfredette@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Admissions</field>
+			<field name="Fax">(802)728-1321</field>
+			<field name="Office">Admin 133</field>
+		</record>
+		<record>
+			<id>99</id>
+			<field name="First Name">Robert Bryan</field>
+			<field name="Last Name">Fredricksen</field>
+			<field name="Phone Number">(802)728-1511</field>
+			<field name="Email">rfredric@vtc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Information Tech. (IT)</field>
+			<field name="Fax">(802)728-1729</field>
+			<field name="Office">Morril 131</field>
+		</record>
+		<record>
+			<id>100</id>
+			<field name="First Name">AmyBeth</field>
+			<field name="Last Name">Fredricksen</field>
+			<field name="Phone Number">(802)728-1709</field>
+			<field name="Email">afredricksen@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204F</field>
+		</record>
+		<record>
+			<id>101</id>
+			<field name="First Name">Christy</field>
+			<field name="Last Name">Fry</field>
+			<field name="Phone Number">(802)728-1798</field>
+			<field name="Email">cfry@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Admissions</field>
+			<field name="Fax">(802)728-1321</field>
+			<field name="Office">Admin 128</field>
+		</record>
+		<record>
+			<id>102</id>
+			<field name="First Name">Matt</field>
+			<field name="Last Name">Gallagher</field>
+			<field name="Phone Number">(802)728-1000</field>
+			<field name="Email">mgallagher@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 211A</field>
+		</record>
+		<record>
+			<id>103</id>
+			<field name="First Name">Gay</field>
+			<field name="Last Name">Gaston</field>
+			<field name="Phone Number">(802)728-1732</field>
+			<field name="Email">ggaston@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Institutional Advancement</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 102</field>
+		</record>
+		<record>
+			<id>104</id>
+			<field name="First Name">Anna</field>
+			<field name="Last Name">Gerac</field>
+			<field name="Phone Number">(802)728-1586</field>
+			<field name="Email">agerac@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)728-1733</field>
+			<field name="Office">Morril Addition 307</field>
+		</record>
+		<record>
+			<id>105</id>
+			<field name="First Name">Patricia</field>
+			<field name="Last Name">Giavara</field>
+			<field name="Phone Number">(802)728-1796</field>
+			<field name="Email">pgiavara@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">VMEC</field>
+			<field name="Fax">(802)728-1456</field>
+			<field name="Office">Judd 103B</field>
+		</record>
+		<record>
+			<id>106</id>
+			<field name="First Name">Maureen</field>
+			<field name="Last Name">Hebert</field>
+			<field name="Phone Number">(802)371-4807</field>
+			<field name="Email">mhebert@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Technology Ext. Div. (TED)</field>
+			<field name="Fax"/>
+			<field name="Office">CVMC</field>
+		</record>
+		<record>
+			<id>107</id>
+			<field name="First Name">Jennifer</field>
+			<field name="Last Name">McConnell</field>
+			<field name="Phone Number">(802)657-6111</field>
+			<field name="Email">jmcconnell@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Technology Ext. Div. (TED)</field>
+			<field name="Fax"/>
+			<field name="Office">General Dynamics</field>
+		</record>
+		<record>
+			<id>108</id>
+			<field name="First Name">Jay</field>
+			<field name="Last Name">Paterson</field>
+			<field name="Phone Number">(802)879-2336</field>
+			<field name="Email">jpaterson@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Technology Ext. Div. (TED)</field>
+			<field name="Fax">(802)879-2376</field>
+			<field name="Office">232</field>
+		</record>
+		<record>
+			<id>109</id>
+			<field name="First Name">Carrie</field>
+			<field name="Last Name">Wright</field>
+			<field name="Phone Number">(802)728-1305</field>
+			<field name="Email">cwright@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Technology Ext. Div. (TED)</field>
+			<field name="Fax"/>
+			<field name="Office">Judd 108B</field>
+		</record>
+		<record>
+			<id>110</id>
+			<field name="First Name">Katrin</field>
+			<field name="Last Name">Helgason</field>
+			<field name="Phone Number">(802)728-1695</field>
+			<field name="Email">khelgason@vitlink.org</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Vermont Interactive TV (VIT)</field>
+			<field name="Fax">(802)728-1724</field>
+			<field name="Office">Morrill 102</field>
+		</record>
+		<record>
+			<id>111</id>
+			<field name="First Name">Tara</field>
+			<field name="Last Name">Lidstone</field>
+			<field name="Phone Number">(802)728-1337</field>
+			<field name="Email">tlidstone@vitlink.org</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Vermont Interactive TV (VIT)</field>
+			<field name="Fax">(802)728-1724</field>
+			<field name="Office">Morrill 102</field>
+		</record>
+		<record>
+			<id>112</id>
+			<field name="First Name">Darrell</field>
+			<field name="Last Name">Thompson</field>
+			<field name="Phone Number">(802)728-1294</field>
+			<field name="Email">dthompson@vitlink.org</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Vermont Interactive TV (VIT)</field>
+			<field name="Fax">(802)728-1724</field>
+			<field name="Office">Morrill 102D</field>
+		</record>
+		<record>
+			<id>113</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">VIT Studio</field>
+			<field name="Phone Number">(802)288-1581</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department">Vermont Interactive TV (VIT)</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>114</id>
+			<field name="First Name">Craig</field>
+			<field name="Last Name">Stalnaker</field>
+			<field name="Phone Number">(802)728-1309</field>
+			<field name="Email">cstalnaker@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Veterinary Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 105</field>
+		</record>
+		<record>
+			<id>115</id>
+			<field name="First Name">Amy</field>
+			<field name="Last Name">St Denis</field>
+			<field name="Phone Number">(802)728-1229</field>
+			<field name="Email">ast.denis@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Veterinary Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 105</field>
+		</record>
+		<record>
+			<id>116</id>
+			<field name="First Name">Dana</field>
+			<field name="Last Name">Storer</field>
+			<field name="Phone Number">(802)728-1525</field>
+			<field name="Email">dstorer@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">VISTA/Americorps</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 232</field>
+		</record>
+		<record>
+			<id>117</id>
+			<field name="First Name">Paul</field>
+			<field name="Last Name">Demers</field>
+			<field name="Phone Number">(802)660-2737</field>
+			<field name="Email"/>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department">VMEC</field>
+			<field name="Fax">(802)728-1456</field>
+			<field name="Office">Burlington</field>
+		</record>
+		<record>
+			<id>118</id>
+			<field name="First Name">Becky</field>
+			<field name="Last Name">Stygles</field>
+			<field name="Phone Number">(802)728-1568</field>
+			<field name="Email">rstygles@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">VMEC</field>
+			<field name="Fax">(802)728-1456</field>
+			<field name="Office">Judd 103D</field>
+		</record>
+		<record>
+			<id>119</id>
+			<field name="First Name">Bob</field>
+			<field name="Last Name">Zider</field>
+			<field name="Phone Number">(802)728-1421</field>
+			<field name="Email">rzider@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">VMEC</field>
+			<field name="Fax">(802)728-1456</field>
+			<field name="Office">Judd 103C</field>
+		</record>
+		<record>
+			<id>120</id>
+			<field name="First Name">Denise</field>
+			<field name="Last Name">Wilder</field>
+			<field name="Phone Number">(802)879-2329</field>
+			<field name="Email">dwilder@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Writing &amp; Comm. Center</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>121</id>
+			<field name="First Name">Aaron</field>
+			<field name="Last Name">Marc</field>
+			<field name="Phone Number">(802)728-1725</field>
+			<field name="Email">aaron.marcotte@jsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 204C</field>
+		</record>
+		<record>
+			<id>122</id>
+			<field name="First Name">Thomas</field>
+			<field name="Last Name">Giblin</field>
+			<field name="Phone Number">(802)728-1447</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 102D</field>
+		</record>
+		<record>
+			<id>123</id>
+			<field name="First Name">Ann</field>
+			<field name="Last Name">Gnagey</field>
+			<field name="Phone Number">(802)728-1514</field>
+			<field name="Email">agnagey@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Biotechnology</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 216</field>
+		</record>
+		<record>
+			<id>124</id>
+			<field name="First Name">Phillip</field>
+			<field name="Last Name">Godenschwager</field>
+			<field name="Phone Number">(802)728-1316</field>
+			<field name="Email">pgodenschwager@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Architect &amp; Bldg. Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 131</field>
+		</record>
+		<record>
+			<id>125</id>
+			<field name="First Name">Robin</field>
+			<field name="Last Name">Goodall</field>
+			<field name="Phone Number">(802)728-1278</field>
+			<field name="Email">rgoodall@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Support Services</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 224</field>
+		</record>
+		<record>
+			<id>126</id>
+			<field name="First Name">Eberhard</field>
+			<field name="Last Name">Gramatzki</field>
+			<field name="Phone Number">(802)769-3396</field>
+			<field name="Email">egramatzki@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">IBM Project</field>
+			<field name="Fax"/>
+			<field name="Office">IBM Essex Junction</field>
+		</record>
+		<record>
+			<id>127</id>
+			<field name="First Name">Nancy</field>
+			<field name="Last Name">Guild</field>
+			<field name="Phone Number">(802)728-1212</field>
+			<field name="Email">nguild@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Affairs</field>
+			<field name="Fax">(802)728-1510</field>
+			<field name="Office">Admin 117</field>
+		</record>
+		<record>
+			<id>128</id>
+			<field name="First Name">Matthew</field>
+			<field name="Last Name">Guzowski</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">mguzowski@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>129</id>
+			<field name="First Name">Eileen</field>
+			<field name="Last Name">Haddon</field>
+			<field name="Phone Number">(802)728-1520</field>
+			<field name="Email">ehaddon@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Judd 104</field>
+		</record>
+		<record>
+			<id>130</id>
+			<field name="First Name">Ty</field>
+			<field name="Last Name">Handy</field>
+			<field name="Phone Number">(802)728-1251</field>
+			<field name="Email">thandy@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">President's Office</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 204</field>
+		</record>
+		<record>
+			<id>131</id>
+			<field name="First Name">Sylvia</field>
+			<field name="Last Name">Harris</field>
+			<field name="Phone Number">(802)728-1341</field>
+			<field name="Email">sharris@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 112</field>
+		</record>
+		<record>
+			<id>132</id>
+			<field name="First Name">Paul</field>
+			<field name="Last Name">Hartmann</field>
+			<field name="Phone Number">(802)728-1344</field>
+			<field name="Email">phartmann@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Architect &amp; Bldg. Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 121</field>
+		</record>
+		<record>
+			<id>133</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">Henning</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email">mhenning@vtc.vsc.edu</field>
+			<field name="Campus">Bennington</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)447-5218</field>
+			<field name="Office">Putnam/Bennington</field>
+		</record>
+		<record>
+			<id>134</id>
+			<field name="First Name">Jeffrey</field>
+			<field name="Last Name">Higgins</field>
+			<field name="Phone Number">(802)728-1217</field>
+			<field name="Email">jhiggins@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 205</field>
+		</record>
+		<record>
+			<id>135</id>
+			<field name="First Name">Angela</field>
+			<field name="Last Name">Hildenbrand</field>
+			<field name="Phone Number">(802)728-1372</field>
+			<field name="Email">ahildenbrand@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 107</field>
+		</record>
+		<record>
+			<id>136</id>
+			<field name="First Name">William</field>
+			<field name="Last Name">Holmes</field>
+			<field name="Phone Number">(802)769-5891</field>
+			<field name="Email">wholmes@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">IBM Project</field>
+			<field name="Fax"/>
+			<field name="Office">IBM Essex Junction</field>
+		</record>
+		<record>
+			<id>137</id>
+			<field name="First Name">Ann</field>
+			<field name="Last Name">Howard</field>
+			<field name="Phone Number">(802)728-1365</field>
+			<field name="Email">ahoward@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Library</field>
+			<field name="Fax">(802)728-1506</field>
+			<field name="Office">Library</field>
+		</record>
+		<record>
+			<id>138</id>
+			<field name="First Name">Lynn</field>
+			<field name="Last Name">Howe</field>
+			<field name="Phone Number">(802)728-1211</field>
+			<field name="Email">lhowe@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax">(802)728-1314</field>
+			<field name="Office">Admin 225</field>
+		</record>
+		<record>
+			<id>139</id>
+			<field name="First Name">Roger</field>
+			<field name="Last Name">Howes</field>
+			<field name="Phone Number">(802)728-1277</field>
+			<field name="Email">rhowes@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mechanical Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 116</field>
+		</record>
+		<record>
+			<id>140</id>
+			<field name="First Name">Greg</field>
+			<field name="Last Name">Hughes</field>
+			<field name="Phone Number">(802)728-1298</field>
+			<field name="Email">ghughes@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 306</field>
+		</record>
+		<record>
+			<id>141</id>
+			<field name="First Name">Polly</field>
+			<field name="Last Name">Hunt</field>
+			<field name="Phone Number">(802)728-1255</field>
+			<field name="Email">phunt@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax">(802)728-1314</field>
+			<field name="Office">Admin 217</field>
+		</record>
+		<record>
+			<id>142</id>
+			<field name="First Name">Clark</field>
+			<field name="Last Name">Hunt</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">chunt@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>143</id>
+			<field name="First Name">Steven</field>
+			<field name="Last Name">Hurd</field>
+			<field name="Phone Number">(802)879-5965</field>
+			<field name="Email">shurd@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Respiratory Therapy</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>144</id>
+			<field name="First Name">Kristen</field>
+			<field name="Last Name">Husher</field>
+			<field name="Phone Number">(802)728-1705</field>
+			<field name="Email">khusher@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)728-1390</field>
+			<field name="Office">Admin 211B</field>
+		</record>
+		<record>
+			<id>145</id>
+			<field name="First Name">Kristen</field>
+			<field name="Last Name">Husher</field>
+			<field name="Phone Number">(802)879-5968</field>
+			<field name="Email">khusher@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">103</field>
+		</record>
+		<record>
+			<id>146</id>
+			<field name="First Name">Tom</field>
+			<field name="Last Name">Huyghebaert</field>
+			<field name="Phone Number">(802)728-3711</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Aramark</field>
+			<field name="Fax"/>
+			<field name="Office">Morey</field>
+		</record>
+		<record>
+			<id>147</id>
+			<field name="First Name">Donna</field>
+			<field name="Last Name">Imbeninato</field>
+			<field name="Phone Number">(802)728-1241</field>
+			<field name="Email">dimbeninato@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Support Services</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 201</field>
+		</record>
+		<record>
+			<id>148</id>
+			<field name="First Name">David</field>
+			<field name="Last Name">Jarmy</field>
+			<field name="Phone Number">(802)728-1416</field>
+			<field name="Email">djarmy@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 207</field>
+		</record>
+		<record>
+			<id>149</id>
+			<field name="First Name">Natalie</field>
+			<field name="Last Name">Jarnis</field>
+			<field name="Phone Number">(802)728-1581</field>
+			<field name="Email">njarnis@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Equine Studies</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204B</field>
+		</record>
+		<record>
+			<id>150</id>
+			<field name="First Name">Ben</field>
+			<field name="Last Name">Johnson</field>
+			<field name="Phone Number">(802)728-1233</field>
+			<field name="Email">bjohnson@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Library</field>
+			<field name="Fax">(802)728-1506</field>
+			<field name="Office">Library</field>
+		</record>
+		<record>
+			<id>151</id>
+			<field name="First Name">Paul</field>
+			<field name="Last Name">Johnson</field>
+			<field name="Phone Number">(802)728-1712</field>
+			<field name="Email">pjohnson@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mechanical Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 114</field>
+		</record>
+		<record>
+			<id>152</id>
+			<field name="First Name">Mary Kathryn</field>
+			<field name="Last Name">Juskiewicz</field>
+			<field name="Phone Number">(802)728-1319</field>
+			<field name="Email">mjuskiewicz@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Affairs</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 225</field>
+		</record>
+		<record>
+			<id>153</id>
+			<field name="First Name">Ezra</field>
+			<field name="Last Name">Kahn</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">ekahn@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Mechanical Eng. Tech.</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">240</field>
+		</record>
+		<record>
+			<id>154</id>
+			<field name="First Name">Jonathan</field>
+			<field name="Last Name">Keith</field>
+			<field name="Phone Number">(802)728-1292</field>
+			<field name="Email">jkeith@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Security</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 122</field>
+		</record>
+		<record>
+			<id>155</id>
+			<field name="First Name">Chuck</field>
+			<field name="Last Name">Keller</field>
+			<field name="Phone Number">(802)879-2328</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>156</id>
+			<field name="First Name">Kelly</field>
+			<field name="Last Name">Keyes</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>157</id>
+			<field name="First Name">John</field>
+			<field name="Last Name">Kidder</field>
+			<field name="Phone Number">(802)728-1783</field>
+			<field name="Email">jkidder@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mechanical Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 117</field>
+		</record>
+		<record>
+			<id>158</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">Kitchen</field>
+			<field name="Phone Number">(802)879-2379</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>159</id>
+			<field name="First Name">John</field>
+			<field name="Last Name">Knox</field>
+			<field name="Phone Number">(802)728-1204</field>
+			<field name="Email">jknox@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 218</field>
+		</record>
+		<record>
+			<id>160</id>
+			<field name="First Name">Ronald</field>
+			<field name="Last Name">Krauth</field>
+			<field name="Phone Number">(802)728-1580</field>
+			<field name="Email">rkrauth@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Science</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204D</field>
+		</record>
+		<record>
+			<id>161</id>
+			<field name="First Name">Beth</field>
+			<field name="Last Name">Kribstock</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>162</id>
+			<field name="First Name">Jason</field>
+			<field name="Last Name">LaCroix</field>
+			<field name="Phone Number">(802)728-1205</field>
+			<field name="Email">jlacroix@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 226</field>
+		</record>
+		<record>
+			<id>163</id>
+			<field name="First Name">Rebecca</field>
+			<field name="Last Name">Lafferty</field>
+			<field name="Phone Number">(802)728-1767</field>
+			<field name="Email">rlafferty@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Library</field>
+			<field name="Fax">(802)728-1506</field>
+			<field name="Office">Library</field>
+		</record>
+		<record>
+			<id>164</id>
+			<field name="First Name">Conference Room</field>
+			<field name="Last Name">Langevin</field>
+			<field name="Phone Number">(802)728-5223</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Langevin</field>
+		</record>
+		<record>
+			<id>165</id>
+			<field name="First Name">Lottie</field>
+			<field name="Last Name">Lavalette</field>
+			<field name="Phone Number">(802)879-2380</field>
+			<field name="Email">llavalette@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>166</id>
+			<field name="First Name">Lawrence</field>
+			<field name="Last Name">James</field>
+			<field name="Phone Number">(802)728-1725</field>
+			<field name="Email">jlawrence@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204C</field>
+		</record>
+		<record>
+			<id>167</id>
+			<field name="First Name">Celia</field>
+			<field name="Last Name">Legacy</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">clegacy@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>168</id>
+			<field name="First Name">John</field>
+			<field name="Last Name">Little</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">jlittle@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Science</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>169</id>
+			<field name="First Name">George</field>
+			<field name="Last Name">Longenecker</field>
+			<field name="Phone Number">(802)728-1342</field>
+			<field name="Email">glongenecker@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 209</field>
+		</record>
+		<record>
+			<id>170</id>
+			<field name="First Name">William</field>
+			<field name="Last Name">Lucci</field>
+			<field name="Phone Number">(802)770-1032</field>
+			<field name="Email">wluccijr@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Stafford Tech</field>
+		</record>
+		<record>
+			<id>171</id>
+			<field name="First Name">Judy</field>
+			<field name="Last Name">Luce</field>
+			<field name="Phone Number">(802)728-1448</field>
+			<field name="Email">jluce@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Financial Aid</field>
+			<field name="Fax">(802)728-1436</field>
+			<field name="Office">Admin 109</field>
+		</record>
+		<record>
+			<id>172</id>
+			<field name="First Name">Jim</field>
+			<field name="Last Name">Lucenti</field>
+			<field name="Phone Number">(802)728-1380</field>
+			<field name="Email">jlucenti@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">SHAPE</field>
+		</record>
+		<record>
+			<id>173</id>
+			<field name="First Name">Sosten</field>
+			<field name="Last Name">Lungu</field>
+			<field name="Phone Number">(802)728-1720</field>
+			<field name="Email">slungu@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Agriculture</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 229</field>
+		</record>
+		<record>
+			<id>174</id>
+			<field name="First Name">Karen</field>
+			<field name="Last Name">Lynch</field>
+			<field name="Phone Number">(802)769-6515</field>
+			<field name="Email">klynch@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">IBM Project</field>
+			<field name="Fax"/>
+			<field name="Office">IBM Essex Junction</field>
+		</record>
+		<record>
+			<id>175</id>
+			<field name="First Name">Karen</field>
+			<field name="Last Name">MacIntyre</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">kmacintyre@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department">ECET</field>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>176</id>
+			<field name="First Name">Karen</field>
+			<field name="Last Name">MacIntyre</field>
+			<field name="Phone Number">(802)728-1440</field>
+			<field name="Email">kmacintyre@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">ECET</field>
+			<field name="Fax"/>
+			<field name="Office">Green 102A</field>
+		</record>
+		<record>
+			<id>177</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">Main Fax</field>
+			<field name="Phone Number">(802)879-2327</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department">Fax Lines</field>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>178</id>
+			<field name="First Name">Randolph</field>
+			<field name="Last Name">Main Fax</field>
+			<field name="Phone Number">(802)728-1390</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Fax Lines</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 134</field>
+		</record>
+		<record>
+			<id>179</id>
+			<field name="First Name">Peter</field>
+			<field name="Last Name">Maloska</field>
+			<field name="Phone Number">(802)728-1710</field>
+			<field name="Email">pmaloska@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Fire Science</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 231</field>
+		</record>
+		<record>
+			<id>180</id>
+			<field name="First Name">Malsch</field>
+			<field name="Last Name">Kathleen</field>
+			<field name="Phone Number">(802)254-5570</field>
+			<field name="Email">kmalsch@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Other</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>181</id>
+			<field name="First Name">Ted</field>
+			<field name="Last Name">Manazir</field>
+			<field name="Phone Number">(802)728-1275</field>
+			<field name="Email">tmanazir@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>182</id>
+			<field name="First Name">Michael</field>
+			<field name="Last Name">Marceau</field>
+			<field name="Phone Number">(802)728-1307</field>
+			<field name="Email">mmarceau@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 119</field>
+		</record>
+		<record>
+			<id>183</id>
+			<field name="First Name">Louise</field>
+			<field name="Last Name">Maynard</field>
+			<field name="Phone Number">(802)728-1284</field>
+			<field name="Email">lmaynard@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mechanical Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 114</field>
+		</record>
+		<record>
+			<id>184</id>
+			<field name="First Name">James</field>
+			<field name="Last Name">McCaffrey</field>
+			<field name="Phone Number"/>
+			<field name="Email">jmccaffrey@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">TBA</field>
+		</record>
+		<record>
+			<id>185</id>
+			<field name="First Name">Richard</field>
+			<field name="Last Name">McCormack</field>
+			<field name="Phone Number">(802)728-1447</field>
+			<field name="Email">rmccormack@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 102D</field>
+		</record>
+		<record>
+			<id>186</id>
+			<field name="First Name">Cathy</field>
+			<field name="Last Name">McCullough</field>
+			<field name="Phone Number">(802)728-1247</field>
+			<field name="Email">cmccullough@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Financial Aid</field>
+			<field name="Fax">(802)728-1436</field>
+			<field name="Office">Admin 110</field>
+		</record>
+		<record>
+			<id>187</id>
+			<field name="First Name">William</field>
+			<field name="Last Name">McGrath</field>
+			<field name="Phone Number">(802)728-1713</field>
+			<field name="Email">wmcgrath@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 231</field>
+		</record>
+		<record>
+			<id>188</id>
+			<field name="First Name">Mehdi</field>
+			<field name="Last Name">McKay</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>189</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">McMahon</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email">mmcmahon@vtc.vsc.edu</field>
+			<field name="Campus">Bennington</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)447-5218</field>
+			<field name="Office">Putnam/Bennington</field>
+		</record>
+		<record>
+			<id>190</id>
+			<field name="First Name">Jim</field>
+			<field name="Last Name">McNichol</field>
+			<field name="Phone Number">(802)769-5891</field>
+			<field name="Email">jmcnichol@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">IBM Project</field>
+			<field name="Fax"/>
+			<field name="Office">IBM Essex Junction</field>
+		</record>
+		<record>
+			<id>191</id>
+			<field name="First Name">Marc</field>
+			<field name="Last Name">McPhetres</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">mmcphetres@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>192</id>
+			<field name="First Name">Diana</field>
+			<field name="Last Name">Mellar</field>
+			<field name="Phone Number">(802)728-1297</field>
+			<field name="Email">dmellar@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Admissions</field>
+			<field name="Fax">(802)728-1321</field>
+			<field name="Office">Admin 129</field>
+		</record>
+		<record>
+			<id>193</id>
+			<field name="First Name">Pat</field>
+			<field name="Last Name">Menchini</field>
+			<field name="Phone Number">(802)728-1533</field>
+			<field name="Email">pmenchini@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Dean of Academic Affairs</field>
+			<field name="Fax">(802)728-1569</field>
+			<field name="Office">Green 125</field>
+		</record>
+		<record>
+			<id>194</id>
+			<field name="First Name">Ben</field>
+			<field name="Last Name">Merrill</field>
+			<field name="Phone Number">(802)728-1329</field>
+			<field name="Email">bmerrill@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Marketing</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 103</field>
+		</record>
+		<record>
+			<id>195</id>
+			<field name="First Name">John</field>
+			<field name="Last Name">Meyer</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">jmeyer@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>196</id>
+			<field name="First Name">Brad</field>
+			<field name="Last Name">Miller</field>
+			<field name="Phone Number">(802)728-1290</field>
+			<field name="Email">bmiller@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Architect &amp; Bldg. Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 127</field>
+		</record>
+		<record>
+			<id>197</id>
+			<field name="First Name">Russ</field>
+			<field name="Last Name">Mills</field>
+			<field name="Phone Number">(802)728-1308</field>
+			<field name="Email">rmills@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 209</field>
+		</record>
+		<record>
+			<id>198</id>
+			<field name="First Name">Tom</field>
+			<field name="Last Name">Milne</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">tmilne@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Green</field>
+		</record>
+		<record>
+			<id>199</id>
+			<field name="First Name">Timothy</field>
+			<field name="Last Name">Moore</field>
+			<field name="Phone Number">(802)728-1773</field>
+			<field name="Email">tmoore@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Fire Science</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 231</field>
+		</record>
+		<record>
+			<id>200</id>
+			<field name="First Name">Lobby</field>
+			<field name="Last Name">Morey</field>
+			<field name="Phone Number">(802)728-1230</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Morey</field>
+		</record>
+		<record>
+			<id>201</id>
+			<field name="First Name">Lounge</field>
+			<field name="Last Name">Morey</field>
+			<field name="Phone Number">(802)728-1323</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Morey</field>
+		</record>
+		<record>
+			<id>202</id>
+			<field name="First Name">Security</field>
+			<field name="Last Name">Motorola Portable</field>
+			<field name="Phone Number">(802)728-1334</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Admin 122</field>
+		</record>
+		<record>
+			<id>203</id>
+			<field name="First Name">Christine</field>
+			<field name="Last Name">Motyka</field>
+			<field name="Phone Number">(802)728-1206</field>
+			<field name="Email">cmotyka@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Landscape, Dev. &amp; Orn. Horticulture</field>
+			<field name="Fax"/>
+			<field name="Office">Green 225</field>
+		</record>
+		<record>
+			<id>204</id>
+			<field name="First Name">Hilary</field>
+			<field name="Last Name">Mullins</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">hmullins@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>205</id>
+			<field name="First Name">John</field>
+			<field name="Last Name">Murphy</field>
+			<field name="Phone Number">(802)728-1203</field>
+			<field name="Email">jmurphy@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 231</field>
+		</record>
+		<record>
+			<id>206</id>
+			<field name="First Name">Terrence</field>
+			<field name="Last Name">Murphy</field>
+			<field name="Phone Number">(802)728-1281</field>
+			<field name="Email">tmurphy@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Architect &amp; Bldg. Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 133</field>
+		</record>
+		<record>
+			<id>207</id>
+			<field name="First Name">Nancy</field>
+			<field name="Last Name">Murray</field>
+			<field name="Phone Number">(802)728-1716</field>
+			<field name="Email">nmurray@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 220</field>
+		</record>
+		<record>
+			<id>208</id>
+			<field name="First Name">Andrew</field>
+			<field name="Last Name">Myrick</field>
+			<field name="Phone Number">(802)728-1318</field>
+			<field name="Email">amyrick@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Construction Practice Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 219</field>
+		</record>
+		<record>
+			<id>209</id>
+			<field name="First Name">Charles</field>
+			<field name="Last Name">Neuhardt</field>
+			<field name="Phone Number">(802)728-1343</field>
+			<field name="Email">cneuhardt@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 125</field>
+		</record>
+		<record>
+			<id>210</id>
+			<field name="First Name">Jennifer</field>
+			<field name="Last Name">Norton</field>
+			<field name="Phone Number">(802)728-1794</field>
+			<field name="Email">jnorton@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">SHAPE</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>211</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">Nursing Fax</field>
+			<field name="Phone Number">(802)879-5645</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department">Fax Lines</field>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>212</id>
+			<field name="First Name">John</field>
+			<field name="Last Name">ODonnell</field>
+			<field name="Phone Number">(802)728-1246</field>
+			<field name="Email">jo'donnelljr@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Science</field>
+			<field name="Fax"/>
+			<field name="Office">Green 107</field>
+		</record>
+		<record>
+			<id>213</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">OLeary</field>
+			<field name="Phone Number">(802)728-1715</field>
+			<field name="Email">mo'leary2@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Sustainable Design</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 220</field>
+		</record>
+		<record>
+			<id>214</id>
+			<field name="First Name">John</field>
+			<field name="Last Name">Oldham</field>
+			<field name="Phone Number">(802)728-1776</field>
+			<field name="Email">joldham@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 204G</field>
+		</record>
+		<record>
+			<id>215</id>
+			<field name="First Name">Lorinda</field>
+			<field name="Last Name">Oliver</field>
+			<field name="Phone Number">(802)728-1726</field>
+			<field name="Email">loliver@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 203</field>
+		</record>
+		<record>
+			<id>216</id>
+			<field name="First Name">Barbara</field>
+			<field name="Last Name">Conrey</field>
+			<field name="Phone Number">(802)728-1363</field>
+			<field name="Email">bconrey@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Architect &amp; Bldg. Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 117</field>
+		</record>
+		<record>
+			<id>217</id>
+			<field name="First Name">Victoria</field>
+			<field name="Last Name">Crain</field>
+			<field name="Phone Number">(802)728-1722</field>
+			<field name="Email">vcrain@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Academic Dean's Office</field>
+			<field name="Fax">(802)728-1569</field>
+			<field name="Office">Green 102</field>
+		</record>
+		<record>
+			<id>218</id>
+			<field name="First Name">Dwight</field>
+			<field name="Last Name">Cross</field>
+			<field name="Phone Number">(802)728-1244</field>
+			<field name="Email">dcross@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Admissions</field>
+			<field name="Fax">(802)728-1321</field>
+			<field name="Office">Admin 116</field>
+		</record>
+		<record>
+			<id>219</id>
+			<field name="First Name">Susan</field>
+			<field name="Last Name">Currier</field>
+			<field name="Phone Number">(802)728-1237</field>
+			<field name="Email">scurrier@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Library</field>
+			<field name="Fax">(802)728-1506</field>
+			<field name="Office">Library</field>
+		</record>
+		<record>
+			<id>220</id>
+			<field name="First Name">Craig</field>
+			<field name="Last Name">Damon</field>
+			<field name="Phone Number">(802)728-1343</field>
+			<field name="Email">cdamon@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Information Science Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 125</field>
+		</record>
+		<record>
+			<id>221</id>
+			<field name="First Name">Erica</field>
+			<field name="Last Name">Dana</field>
+			<field name="Phone Number">(802)728-1261</field>
+			<field name="Email">edana@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Switchboard/Reception</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 134</field>
+		</record>
+		<record>
+			<id>222</id>
+			<field name="First Name">Charles</field>
+			<field name="Last Name">Dana</field>
+			<field name="Phone Number">(802)728-1523</field>
+			<field name="Email">cdana@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Farmstead</field>
+			<field name="Fax"/>
+			<field name="Office">Farm</field>
+		</record>
+		<record>
+			<id>223</id>
+			<field name="First Name">Beth</field>
+			<field name="Last Name">Danaher</field>
+			<field name="Phone Number">(802)728-1396</field>
+			<field name="Email">bdanaher@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Support Services</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 222</field>
+		</record>
+		<record>
+			<id>224</id>
+			<field name="First Name">Jack</field>
+			<field name="Last Name">Daniels</field>
+			<field name="Phone Number">(802)728-1250</field>
+			<field name="Email">jdaniels@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Dean of Administration</field>
+			<field name="Fax">(802)728-1314</field>
+			<field name="Office">Admin 221</field>
+		</record>
+		<record>
+			<id>225</id>
+			<field name="First Name">Leslie</field>
+			<field name="Last Name">Daniels</field>
+			<field name="Phone Number">(802)728-1505</field>
+			<field name="Email">ldaniels@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>226</id>
+			<field name="First Name">Linda</field>
+			<field name="Last Name">Davis</field>
+			<field name="Phone Number">(802)728-1269</field>
+			<field name="Email">ldavis@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 208</field>
+		</record>
+		<record>
+			<id>227</id>
+			<field name="First Name">Alan</field>
+			<field name="Last Name">Ricketts</field>
+			<field name="Phone Number">(802)728-1366</field>
+			<field name="Email">aricketts@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 203</field>
+		</record>
+		<record>
+			<id>228</id>
+			<field name="First Name">Meredith</field>
+			<field name="Last Name">Roberts</field>
+			<field name="Phone Number">(802)879-5970</field>
+			<field name="Email">mroberts@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">105</field>
+		</record>
+		<record>
+			<id>229</id>
+			<field name="First Name">Deborah</field>
+			<field name="Last Name">Robinson</field>
+			<field name="Phone Number">(802)728-1706</field>
+			<field name="Email">drobinson@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)728-1374</field>
+			<field name="Office">Morrill Addition 113</field>
+		</record>
+		<record>
+			<id>230</id>
+			<field name="First Name">Albert</field>
+			<field name="Last Name">Robitaille</field>
+			<field name="Phone Number">(802)728-1210</field>
+			<field name="Email">arobitaille@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Civil &amp; Environmental Eng.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 302</field>
+		</record>
+		<record>
+			<id>231</id>
+			<field name="First Name">Allan</field>
+			<field name="Last Name">Rodgers</field>
+			<field name="Phone Number">(802)879-2389</field>
+			<field name="Email">arodgers@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">232</field>
+		</record>
+		<record>
+			<id>232</id>
+			<field name="First Name">Amy</field>
+			<field name="Last Name">Rodjenski</field>
+			<field name="Phone Number">(802)879-2316</field>
+			<field name="Email">arodjenski@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>233</id>
+			<field name="First Name">Carol</field>
+			<field name="Last Name">Rogers</field>
+			<field name="Phone Number">(802)728-1439</field>
+			<field name="Email">crogers@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 228</field>
+		</record>
+		<record>
+			<id>234</id>
+			<field name="First Name">Gary</field>
+			<field name="Last Name">Rogler</field>
+			<field name="Phone Number">(802)728-1292</field>
+			<field name="Email">grogler@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Security</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 122</field>
+		</record>
+		<record>
+			<id>235</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">Room Two-hundred twenty-eight</field>
+			<field name="Phone Number">(802)879-2397</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>236</id>
+			<field name="First Name">Dan</field>
+			<field name="Last Name">Rossi</field>
+			<field name="Phone Number">(802)728-7795</field>
+			<field name="Email">drossi@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Morrill 219</field>
+		</record>
+		<record>
+			<id>237</id>
+			<field name="First Name">Rita</field>
+			<field name="Last Name">Rotta</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">rrotta@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>238</id>
+			<field name="First Name">Andrew</field>
+			<field name="Last Name">Roy</field>
+			<field name="Phone Number">(802)728-1386</field>
+			<field name="Email">aroy@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Automotive Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Automotive Tech. 111</field>
+		</record>
+		<record>
+			<id>239</id>
+			<field name="First Name">Robert</field>
+			<field name="Last Name">Royce</field>
+			<field name="Phone Number">(802)728-1225</field>
+			<field name="Email">rroyce@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Laboratory Technicians</field>
+			<field name="Fax"/>
+			<field name="Office">Green 202B</field>
+		</record>
+		<record>
+			<id>240</id>
+			<field name="First Name">Samuel</field>
+			<field name="Last Name">Colwell</field>
+			<field name="Phone Number">(802)728-1713</field>
+			<field name="Email">scolwell@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 231</field>
+		</record>
+		<record>
+			<id>241</id>
+			<field name="First Name">Marion</field>
+			<field name="Last Name">Rummel</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email">mrummel@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Putnam</field>
+		</record>
+		<record>
+			<id>242</id>
+			<field name="First Name">Shelly</field>
+			<field name="Last Name">Russ</field>
+			<field name="Phone Number">(802)728-1303</field>
+			<field name="Email">sruss@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Registrar</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 111</field>
+		</record>
+		<record>
+			<id>243</id>
+			<field name="First Name">Marjorie</field>
+			<field name="Last Name">Ryerson</field>
+			<field name="Phone Number">(802)728-1439</field>
+			<field name="Email">marjorie.ryerson@jsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Conant</field>
+		</record>
+		<record>
+			<id>244</id>
+			<field name="First Name">Scott</field>
+			<field name="Last Name">Sabol</field>
+			<field name="Phone Number">(802)728-1272</field>
+			<field name="Email">ssabol@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Architect &amp; Bldg. Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 221</field>
+		</record>
+		<record>
+			<id>245</id>
+			<field name="First Name">Nate</field>
+			<field name="Last Name">Sands</field>
+			<field name="Phone Number">(802)728-1781</field>
+			<field name="Email">nsands@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 204H</field>
+		</record>
+		<record>
+			<id>246</id>
+			<field name="First Name">Brent</field>
+			<field name="Last Name">Sargent</field>
+			<field name="Phone Number">(802)879-2321</field>
+			<field name="Email">bsargent@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Dean of the Northwest Region</field>
+			<field name="Fax">(802)728-2327</field>
+			<field name="Office">231</field>
+		</record>
+		<record>
+			<id>247</id>
+			<field name="First Name">Brent</field>
+			<field name="Last Name">Sargent cell</field>
+			<field name="Phone Number">(802)777-4663</field>
+			<field name="Email">bsargent@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Dean of the Northwest Region</field>
+			<field name="Fax">(802)728-2327</field>
+			<field name="Office">231</field>
+		</record>
+		<record>
+			<id>248</id>
+			<field name="First Name">Brent</field>
+			<field name="Last Name">Sargent home</field>
+			<field name="Phone Number">(802)244-5250</field>
+			<field name="Email">bsargent@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Dean of the Northwest Region</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">231</field>
+		</record>
+		<record>
+			<id>249</id>
+			<field name="First Name">Sandra</field>
+			<field name="Last Name">Sargent</field>
+			<field name="Phone Number">(802)879-5965</field>
+			<field name="Email">ssargent@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">B100 Reception</field>
+		</record>
+		<record>
+			<id>250</id>
+			<field name="First Name">Emma</field>
+			<field name="Last Name">Schumann</field>
+			<field name="Phone Number">(802)728-1252</field>
+			<field name="Email">eschumann@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">President's Office</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 206</field>
+		</record>
+		<record>
+			<id>251</id>
+			<field name="First Name">Charles</field>
+			<field name="Last Name">Scribner</field>
+			<field name="Phone Number">(802)728-1209</field>
+			<field name="Email">cscribner@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Civil &amp; Environmental Eng.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 129</field>
+		</record>
+		<record>
+			<id>252</id>
+			<field name="First Name">Main Desk</field>
+			<field name="Last Name">SHAPE</field>
+			<field name="Phone Number">(802)728-1384</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">SHAPE</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>253</id>
+			<field name="First Name">Amy</field>
+			<field name="Last Name">Sharpe</field>
+			<field name="Phone Number">(802)728-1353</field>
+			<field name="Email">asharpe@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 210</field>
+		</record>
+		<record>
+			<id>254</id>
+			<field name="First Name">Margaret</field>
+			<field name="Last Name">Sheehey</field>
+			<field name="Phone Number">(802)769-5621</field>
+			<field name="Email">msheehey@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">IBM Project</field>
+			<field name="Fax"/>
+			<field name="Office">IBM Essex Junction</field>
+		</record>
+		<record>
+			<id>255</id>
+			<field name="First Name">Krista</field>
+			<field name="Last Name">Sheppard</field>
+			<field name="Phone Number"/>
+			<field name="Email">kmiller@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Other</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 226</field>
+		</record>
+		<record>
+			<id>256</id>
+			<field name="First Name">Sarah</field>
+			<field name="Last Name">Silbert</field>
+			<field name="Phone Number">(802)728-1222</field>
+			<field name="Email">ssilbert@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 204</field>
+		</record>
+		<record>
+			<id>257</id>
+			<field name="First Name">Christine</field>
+			<field name="Last Name">Simmons</field>
+			<field name="Phone Number">(802)254-5570</field>
+			<field name="Email">csimmons@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Other</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>258</id>
+			<field name="First Name">Bob</field>
+			<field name="Last Name">Sivret</field>
+			<field name="Phone Number">(802)728-1270</field>
+			<field name="Email">rsivret@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Health Center</field>
+			<field name="Fax"/>
+			<field name="Office">Health Office</field>
+		</record>
+		<record>
+			<id>259</id>
+			<field name="First Name">Pamelia</field>
+			<field name="Last Name">Smith</field>
+			<field name="Phone Number">(802)728-1285</field>
+			<field name="Email">psmith@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Landscape, Dev. &amp; Orn. Horticulture</field>
+			<field name="Fax"/>
+			<field name="Office">Green 229</field>
+		</record>
+		<record>
+			<id>260</id>
+			<field name="First Name">Mike</field>
+			<field name="Last Name">Soulia</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">msoulia@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>261</id>
+			<field name="First Name">Sergey</field>
+			<field name="Last Name">Spivakovsky</field>
+			<field name="Phone Number">(802)728-1581</field>
+			<field name="Email">sspivakovsky@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 204B</field>
+		</record>
+		<record>
+			<id>262</id>
+			<field name="First Name">Andre</field>
+			<field name="Last Name">St Denis</field>
+			<field name="Phone Number">(802)728-1370</field>
+			<field name="Email">ast.denis2@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 100</field>
+		</record>
+		<record>
+			<id>263</id>
+			<field name="First Name">Krystal</field>
+			<field name="Last Name">Stearns</field>
+			<field name="Phone Number">(802)728-1254</field>
+			<field name="Email">kstearns@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 107</field>
+		</record>
+		<record>
+			<id>264</id>
+			<field name="First Name">Sam</field>
+			<field name="Last Name">Stelfox</field>
+			<field name="Phone Number">(802)728-1340</field>
+			<field name="Email">sstelfox@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Information Tech. (IT)</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill 131</field>
+		</record>
+		<record>
+			<id>265</id>
+			<field name="First Name">Alan</field>
+			<field name="Last Name">Stewart</field>
+			<field name="Phone Number">(802)728-1384</field>
+			<field name="Email">astewart@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">SHAPE</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>266</id>
+			<field name="First Name">Howard</field>
+			<field name="Last Name">Stockwell</field>
+			<field name="Phone Number">(802)728-1386</field>
+			<field name="Email">hstockwell@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Automotive Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Automotive Tech. 111</field>
+		</record>
+		<record>
+			<id>267</id>
+			<field name="First Name">Carroll</field>
+			<field name="Last Name">Stokes</field>
+			<field name="Phone Number">(802)728-1202</field>
+			<field name="Email">cstokes@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Science</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill 104A</field>
+		</record>
+		<record>
+			<id>268</id>
+			<field name="First Name">Mitchell</field>
+			<field name="Last Name">Stern</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">mstern@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>269</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">Student Lounge</field>
+			<field name="Phone Number">(802)879-2325</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>270</id>
+			<field name="First Name">Brian</field>
+			<field name="Last Name">Stupik</field>
+			<field name="Phone Number">(802)879-5967</field>
+			<field name="Email">bstupik@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">102</field>
+		</record>
+		<record>
+			<id>271</id>
+			<field name="First Name">Kate</field>
+			<field name="Last Name">Suchmann</field>
+			<field name="Phone Number">(802)254-6349</field>
+			<field name="Email">ksuchmann@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)254-6356</field>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>272</id>
+			<field name="First Name">Susan</field>
+			<field name="Last Name">Clifford</field>
+			<field name="Phone Number">(802)254-5570</field>
+			<field name="Email">sclifford2@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)254-6356</field>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>273</id>
+			<field name="First Name">Laurie</field>
+			<field name="Last Name">Sybel</field>
+			<field name="Phone Number">(802)728-1320</field>
+			<field name="Email">lsybel@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Career Center</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 202</field>
+		</record>
+		<record>
+			<id>274</id>
+			<field name="First Name">Denise</field>
+			<field name="Last Name">Taff</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email">dtaff@vtc.vsc.edu</field>
+			<field name="Campus">Bennington</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)447-5218</field>
+			<field name="Office">Putnam/Bennington</field>
+		</record>
+		<record>
+			<id>275</id>
+			<field name="First Name">Chris</field>
+			<field name="Last Name">Tan</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">ctan@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>276</id>
+			<field name="First Name">Brian</field>
+			<field name="Last Name">Tarbox</field>
+			<field name="Phone Number">(802)728-1316</field>
+			<field name="Email">btarbox@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Green 131</field>
+		</record>
+		<record>
+			<id>277</id>
+			<field name="First Name">Julie</field>
+			<field name="Last Name">Taylor</field>
+			<field name="Phone Number">(802)728-1235</field>
+			<field name="Email">jtaylor@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Library</field>
+			<field name="Fax">(802)728-1506</field>
+			<field name="Office">Library</field>
+		</record>
+		<record>
+			<id>278</id>
+			<field name="First Name">Michael</field>
+			<field name="Last Name">Taylor</field>
+			<field name="Phone Number">(802)728-1232</field>
+			<field name="Email">mtaylor@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Library</field>
+			<field name="Fax">(802)728-1506</field>
+			<field name="Office">Library</field>
+		</record>
+		<record>
+			<id>279</id>
+			<field name="First Name">Mary Jeanne</field>
+			<field name="Last Name">Taylor</field>
+			<field name="Phone Number">(802)728-1607</field>
+			<field name="Email">mjtaylor@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Conference &amp; Planning Coord.</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 210</field>
+		</record>
+		<record>
+			<id>280</id>
+			<field name="First Name">Donna</field>
+			<field name="Last Name">Teasdale</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">dteasdale@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Williston Staff</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">B200 Reception</field>
+		</record>
+		<record>
+			<id>281</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">TED Fax</field>
+			<field name="Phone Number">(802)879-2376</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department">Fax Lines</field>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>282</id>
+			<field name="First Name">Karen</field>
+			<field name="Last Name">Tetreault</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">ktetreault@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>283</id>
+			<field name="First Name">Mary Layne</field>
+			<field name="Last Name">Tharp</field>
+			<field name="Phone Number">(802)728-1781</field>
+			<field name="Email">mtharp@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Landscape, Dev. &amp; Orn. Horticulture</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204H</field>
+		</record>
+		<record>
+			<id>284</id>
+			<field name="First Name">Richard</field>
+			<field name="Last Name">Thibodeau</field>
+			<field name="Phone Number">(802)728-1725</field>
+			<field name="Email">rthibodeau@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204C</field>
+		</record>
+		<record>
+			<id>285</id>
+			<field name="First Name">Lisa</field>
+			<field name="Last Name">Thompson</field>
+			<field name="Phone Number">(802)728-1000</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">(VMEC) Springfield</field>
+		</record>
+		<record>
+			<id>286</id>
+			<field name="First Name">Joe</field>
+			<field name="Last Name">Thompson</field>
+			<field name="Phone Number">(802)728-1781</field>
+			<field name="Email">jthompson3@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Landscape, Dev. &amp; Orn. Horticulture</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204H</field>
+		</record>
+		<record>
+			<id>287</id>
+			<field name="First Name">Joseph</field>
+			<field name="Last Name">Touchette</field>
+			<field name="Phone Number">(802)728-1447</field>
+			<field name="Email">jtouchette@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">102D</field>
+		</record>
+		<record>
+			<id>288</id>
+			<field name="First Name">Joyce</field>
+			<field name="Last Name">Twing</field>
+			<field name="Phone Number">(802)728-1215</field>
+			<field name="Email">jtwing@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 217</field>
+		</record>
+		<record>
+			<id>289</id>
+			<field name="First Name">Svc</field>
+			<field name="Last Name">UVM Ext</field>
+			<field name="Phone Number">(802)728-1556</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Morrill 104</field>
+		</record>
+		<record>
+			<id>290</id>
+			<field name="First Name">Kenneth</field>
+			<field name="Last Name">Vandermark</field>
+			<field name="Phone Number">(802)728-1286</field>
+			<field name="Email">kvandermark@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 233</field>
+		</record>
+		<record>
+			<id>291</id>
+			<field name="First Name">MIchael</field>
+			<field name="Last Name">VanDyke</field>
+			<field name="Phone Number">(802)728-1213</field>
+			<field name="Email">mvandyke@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Dean of the College</field>
+			<field name="Fax">(802)728-1510</field>
+			<field name="Office">Admin 118</field>
+		</record>
+		<record>
+			<id>292</id>
+			<field name="First Name">Ingrid</field>
+			<field name="Last Name">Vansteamburg</field>
+			<field name="Phone Number">(802)728-1339</field>
+			<field name="Email">ivansteamburg@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Academic Dean's Office</field>
+			<field name="Fax">(802)728-1569</field>
+			<field name="Office">Green 108</field>
+		</record>
+		<record>
+			<id>293</id>
+			<field name="First Name">Affairs</field>
+			<field name="Last Name">Veterans</field>
+			<field name="Phone Number">(802)728-1302</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Admin 111</field>
+		</record>
+		<record>
+			<id>294</id>
+			<field name="First Name">Donna</field>
+			<field name="Last Name">Vince</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">dvince@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>295</id>
+			<field name="First Name">Joe</field>
+			<field name="Last Name">Vince</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">jvince@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>296</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">Waldo</field>
+			<field name="Phone Number">(802)728-1349</field>
+			<field name="Email">mwaldo@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Laboratory Technicians</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill 123A</field>
+		</record>
+		<record>
+			<id>297</id>
+			<field name="First Name">Ronald</field>
+			<field name="Last Name">Wallen</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">rwallen@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>298</id>
+			<field name="First Name">Richard</field>
+			<field name="Last Name">Warren</field>
+			<field name="Phone Number">(802)728-1578</field>
+			<field name="Email">rwarren@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 223</field>
+		</record>
+		<record>
+			<id>299</id>
+			<field name="First Name">Edward</field>
+			<field name="Last Name">Wilbur</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">ewilbur@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>300</id>
+			<field name="First Name">Gillian</field>
+			<field name="Last Name">Winner</field>
+			<field name="Phone Number">(802)254-5570</field>
+			<field name="Email">gwinner@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)254-6356</field>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>301</id>
+			<field name="First Name">Joseph</field>
+			<field name="Last Name">Witt</field>
+			<field name="Phone Number">(802)728-1490</field>
+			<field name="Email">jwitt@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Construction Practice Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 219</field>
+		</record>
+		<record>
+			<id>302</id>
+			<field name="First Name">Carl</field>
+			<field name="Last Name">Wolf</field>
+			<field name="Phone Number">(802)728-1228</field>
+			<field name="Email">cwolf@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mechanical Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 116</field>
+		</record>
+		<record>
+			<id>303</id>
+			<field name="First Name">Michael</field>
+			<field name="Last Name">Wooden</field>
+			<field name="Phone Number">(802)728-1378</field>
+			<field name="Email">mwooden@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Academic Scheduler</field>
+			<field name="Fax">(802)728-1569</field>
+			<field name="Office">Green 209</field>
+		</record>
+		<record>
+			<id>304</id>
+			<field name="First Name">Carrie</field>
+			<field name="Last Name">Wright</field>
+			<field name="Phone Number">(802)879-2380</field>
+			<field name="Email">cwright@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Technology Ext. Div. (TED)</field>
+			<field name="Fax">(802)879-2376</field>
+			<field name="Office">236</field>
+		</record>
+		<record>
+			<id>305</id>
+			<field name="First Name">Victoria</field>
+			<field name="Last Name">Wright</field>
+			<field name="Phone Number">(802)875-4922</field>
+			<field name="Email">vwright@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">Extended/Springfield</field>
+		</record>
+		<record>
+			<id>306</id>
+			<field name="First Name">Michael</field>
+			<field name="Last Name">Wright</field>
+			<field name="Phone Number">(802)728-1760</field>
+			<field name="Email">mwright2@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mechanical Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill 124</field>
+		</record>
+		<record>
+			<id>307</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">Writing Center</field>
+			<field name="Phone Number">(802)879-2329</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>308</id>
+			<field name="First Name">Radio</field>
+			<field name="Last Name">WVTC</field>
+			<field name="Phone Number">(802)728-1515</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Morey</field>
+		</record>
+		<record>
+			<id>309</id>
+			<field name="First Name">Matthew</field>
+			<field name="Last Name">Zimet</field>
+			<field name="Phone Number">(802)728-1315</field>
+			<field name="Email">mzimet@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Science</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill 104B</field>
+		</record>
+		<record>
+			<id>310</id>
+			<field name="First Name">Sarah</field>
+			<field name="Last Name">Zschau</field>
+			<field name="Phone Number">(802)728-1206</field>
+			<field name="Email">szschau@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Landscape, Dev. &amp; Orn. Horticulture</field>
+			<field name="Fax"/>
+			<field name="Office">Green 225</field>
+		</record>
+		<record>
+			<id>311</id>
+			<field name="First Name">Vada</field>
+			<field name="Last Name">Aucter</field>
+			<field name="Phone Number">(802)728-1705</field>
+			<field name="Email">vada.aucter@jsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office">Extended/White River Jct.</field>
+		</record>
+		<record>
+			<id>312</id>
+			<field name="First Name">Elizabeth</field>
+			<field name="Last Name">Babcock</field>
+			<field name="Phone Number">(802)728-1705</field>
+			<field name="Email"/>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">Extended/Newport</field>
+		</record>
+		<record>
+			<id>313</id>
+			<field name="First Name">Robert</field>
+			<field name="Last Name">Ball</field>
+			<field name="Phone Number">(802)728-1705</field>
+			<field name="Email"/>
+			<field name="Campus">Other</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office">Extended/White River Jct.</field>
+		</record>
+		<record>
+			<id>314</id>
+			<field name="First Name">Dan</field>
+			<field name="Last Name">Boyce</field>
+			<field name="Phone Number">(802)879-2397</field>
+			<field name="Email">dboyce@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Support Services</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">227</field>
+		</record>
+		<record>
+			<id>315</id>
+			<field name="First Name">Christopher</field>
+			<field name="Last Name">Smith</field>
+			<field name="Phone Number">(802)728-1725</field>
+			<field name="Email">csmith@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204C</field>
+		</record>
+		<record>
+			<id>316</id>
+			<field name="First Name">Alice</field>
+			<field name="Last Name">Dermody</field>
+			<field name="Phone Number">(802)728-3709</field>
+			<field name="Email">adermody@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Aramark</field>
+			<field name="Fax"/>
+			<field name="Office">Morey Hall</field>
+		</record>
+		<record>
+			<id>317</id>
+			<field name="First Name">Ethel</field>
+			<field name="Last Name">Desjardin</field>
+			<field name="Phone Number">(802)728-1302</field>
+			<field name="Email">edesjardin@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Registrar</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 111</field>
+		</record>
+		<record>
+			<id>318</id>
+			<field name="First Name">John</field>
+			<field name="Last Name">Diebold</field>
+			<field name="Phone Number">(802)728-1282</field>
+			<field name="Email">jdiebold@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Civil &amp; Environmental Eng.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 125</field>
+		</record>
+		<record>
+			<id>319</id>
+			<field name="First Name">Rosemary</field>
+			<field name="Last Name">Distel</field>
+			<field name="Phone Number">(802)728-1245</field>
+			<field name="Email">rdistel@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Dean of Retention</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 220</field>
+		</record>
+		<record>
+			<id>320</id>
+			<field name="First Name">Michael</field>
+			<field name="Last Name">Dempsey</field>
+			<field name="Phone Number">(802)728-1630</field>
+			<field name="Email">mdempsey@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Registrar</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 111</field>
+		</record>
+		<record>
+			<id>321</id>
+			<field name="First Name">Ed</field>
+			<field name="Last Name">Delhagen</field>
+			<field name="Phone Number">(802)728-1258</field>
+			<field name="Email">edelhagen@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department"/>
+			<field name="Fax"/>
+			<field name="Office">Admin 127</field>
+		</record>
+		<record>
+			<id>322</id>
+			<field name="First Name">Dominic</field>
+			<field name="Last Name">Delia</field>
+			<field name="Phone Number">(802)728-1292</field>
+			<field name="Email">ddelia@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Security</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 122</field>
+		</record>
+		<record>
+			<id>323</id>
+			<field name="First Name">Williston</field>
+			<field name="Last Name">Dental Fax</field>
+			<field name="Phone Number">(802)879-2317</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department">Fax Lines</field>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>324</id>
+			<field name="First Name">Elizabeth</field>
+			<field name="Last Name">Dorries</field>
+			<field name="Phone Number">(802)728-1387</field>
+			<field name="Email">edorries@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Automotive Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Automotive Tech. 110</field>
+		</record>
+		<record>
+			<id>325</id>
+			<field name="First Name">Robert</field>
+			<field name="Last Name">Durkee III</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">rdurkeeiii@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>326</id>
+			<field name="First Name">John</field>
+			<field name="Last Name">Dyer III</field>
+			<field name="Phone Number">(802)728-1382</field>
+			<field name="Email">jdyeriii@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">SHAPE</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>327</id>
+			<field name="First Name">Christopher</field>
+			<field name="Last Name">Dutton</field>
+			<field name="Phone Number">(802)728-1793</field>
+			<field name="Email">cdutton@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Dairy Farm Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Red School House</field>
+		</record>
+		<record>
+			<id>328</id>
+			<field name="First Name">Eve</field>
+			<field name="Last Name">Duff</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">eduff@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>329</id>
+			<field name="First Name">Diane</field>
+			<field name="Last Name">Dwyer</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">ddwyer@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Williston Campus</field>
+		</record>
+		<record>
+			<id>330</id>
+			<field name="First Name">Marlys</field>
+			<field name="Last Name">Eddy</field>
+			<field name="Phone Number">(802)728-1780</field>
+			<field name="Email">meddy@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Landscape, Dev. &amp; Orn. Horticulture</field>
+			<field name="Fax"/>
+			<field name="Office">Green 225</field>
+		</record>
+		<record>
+			<id>331</id>
+			<field name="First Name">Nancy</field>
+			<field name="Last Name">Gadarowski</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email">ngadarowski@vtc.vsc.edu</field>
+			<field name="Campus">Bennington</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)447-5218</field>
+			<field name="Office">Putnam/Bennington</field>
+		</record>
+		<record>
+			<id>332</id>
+			<field name="First Name">VTC Bookstore</field>
+			<field name="Last Name">VTC Bookstore</field>
+			<field name="Phone Number">(802)728-1238</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Bookstore</field>
+			<field name="Fax"/>
+			<field name="Office">Bookstore</field>
+		</record>
+		<record>
+			<id>333</id>
+			<field name="First Name">Faraydon</field>
+			<field name="Last Name">Pakbaz</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">fpakbaz@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>334</id>
+			<field name="First Name">Rachel</field>
+			<field name="Last Name">Repstad</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">rrepstad@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">405</field>
+		</record>
+		<record>
+			<id>335</id>
+			<field name="First Name">Dan</field>
+			<field name="Last Name">Boyce</field>
+			<field name="Phone Number">(802)728-1519</field>
+			<field name="Email">dboyce@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Support Services</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 223</field>
+		</record>
+		<record>
+			<id>336</id>
+			<field name="First Name">James</field>
+			<field name="Last Name">Smith</field>
+			<field name="Phone Number">(802)728-1253</field>
+			<field name="Email">jsmith6@vtc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Information Tech. (IT)</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill 131</field>
+		</record>
+		<record>
+			<id>337</id>
+			<field name="First Name">Carolyn</field>
+			<field name="Last Name">Barnes</field>
+			<field name="Phone Number">(802)879-5974</field>
+			<field name="Email">cbarnes@vtc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Library</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">Library</field>
+		</record>
+		<record>
+			<id>338</id>
+			<field name="First Name">Thomas</field>
+			<field name="Last Name">Maguire</field>
+			<field name="Phone Number">(802)241-2540</field>
+			<field name="Email">tom.maguire@vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">VSC</field>
+			<field name="Fax"/>
+			<field name="Office">VSC Waterbury</field>
+		</record>
+		<record>
+			<id>339</id>
+			<field name="First Name">Eric</field>
+			<field name="Last Name">Sakai</field>
+			<field name="Phone Number">(802)828-0133</field>
+			<field name="Email">Eric.Sakai@ccv.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">CCV IP Video</field>
+			<field name="Fax"/>
+			<field name="Office">CCV Montpelier</field>
+		</record>
+		<record>
+			<id>340</id>
+			<field name="First Name">Ed</field>
+			<field name="Last Name">Patterson</field>
+			<field name="Phone Number">(802)241-3550</field>
+			<field name="Email">patterse@ccv.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Learning Technology</field>
+			<field name="Fax"/>
+			<field name="Office">Waterbury</field>
+		</record>
+		<record>
+			<id>341</id>
+			<field name="First Name">Ted pager</field>
+			<field name="Last Name">Manazir</field>
+			<field name="Phone Number">(802)250-1039</field>
+			<field name="Email">tmanazir@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>342</id>
+			<field name="First Name">Gordon</field>
+			<field name="Last Name">Reynolds</field>
+			<field name="Phone Number">(802)728-1718</field>
+			<field name="Email">greynolds@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Civil &amp; Environmental Eng.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 123</field>
+		</record>
+		<record>
+			<id>343</id>
+			<field name="First Name">Deborah</field>
+			<field name="Last Name">Raad</field>
+			<field name="Phone Number">(802)728-1311</field>
+			<field name="Email">draad@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Academic Dean's Office</field>
+			<field name="Fax">(802)728-1569</field>
+			<field name="Office">Green 124</field>
+		</record>
+		<record>
+			<id>344</id>
+			<field name="First Name">Tom</field>
+			<field name="Last Name">Huyghebaert</field>
+			<field name="Phone Number">(802)728-3711</field>
+			<field name="Email">thuyghebaert@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Aramark</field>
+			<field name="Fax"/>
+			<field name="Office">Morey Hall</field>
+		</record>
+		<record>
+			<id>345</id>
+			<field name="First Name">Sharon</field>
+			<field name="Last Name">Partridge</field>
+			<field name="Phone Number">(802)728-3711</field>
+			<field name="Email">spartridge@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Aramark</field>
+			<field name="Fax"/>
+			<field name="Office">Morey Hall</field>
+		</record>
+		<record>
+			<id>346</id>
+			<field name="First Name">Hollie</field>
+			<field name="Last Name">Turner</field>
+			<field name="Phone Number">(802)728-3710</field>
+			<field name="Email">hturner@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Aramark</field>
+			<field name="Fax"/>
+			<field name="Office">Morey Hall</field>
+		</record>
+		<record>
+			<id>347</id>
+			<field name="First Name">Mark</field>
+			<field name="Last Name">Vincello</field>
+			<field name="Phone Number">(802)728-1776</field>
+			<field name="Email">mvincello@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Architect &amp; Bldg. Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204G</field>
+		</record>
+		<record>
+			<id>348</id>
+			<field name="First Name">Steve</field>
+			<field name="Last Name">Belitsos cell</field>
+			<field name="Phone Number">(802)793-5787</field>
+			<field name="Email">sbelitsos@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Automotive Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Auto Tech 111</field>
+		</record>
+		<record>
+			<id>349</id>
+			<field name="First Name">Caleb Watson</field>
+			<field name="Last Name">Gates</field>
+			<field name="Phone Number">(802)728-1000</field>
+			<field name="Email">cgates@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Automotive Tech.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>350</id>
+			<field name="First Name">Jason</field>
+			<field name="Last Name">Merwin</field>
+			<field name="Phone Number">(802)728-1000</field>
+			<field name="Email">jmerwin@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Automotive Tech.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>351</id>
+			<field name="First Name">Robert</field>
+			<field name="Last Name">Palmer</field>
+			<field name="Phone Number">(802)728-1386</field>
+			<field name="Email">rpalmer@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Automotive Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Automotive Tech. 111</field>
+		</record>
+		<record>
+			<id>352</id>
+			<field name="First Name">Joe</field>
+			<field name="Last Name">Hirak</field>
+			<field name="Phone Number">(802)728-1238</field>
+			<field name="Email">jhirak@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Bookstore</field>
+			<field name="Fax"/>
+			<field name="Office">Bookstore</field>
+		</record>
+		<record>
+			<id>353</id>
+			<field name="First Name">Katherine</field>
+			<field name="Last Name">Porter</field>
+			<field name="Phone Number">(802)728-1580</field>
+			<field name="Email">kporter@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204D</field>
+		</record>
+		<record>
+			<id>354</id>
+			<field name="First Name">Wilbur</field>
+			<field name="Last Name">Porter</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">wporter@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Business Tech. &amp; Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>355</id>
+			<field name="First Name">Eileen</field>
+			<field name="Last Name">Donovan</field>
+			<field name="Phone Number">(802)728-1325</field>
+			<field name="Email">edonovan@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax">(802)728-1314</field>
+			<field name="Office">Admin 219</field>
+		</record>
+		<record>
+			<id>356</id>
+			<field name="First Name">Jeannine</field>
+			<field name="Last Name">Poulin</field>
+			<field name="Phone Number">(802)728-1435</field>
+			<field name="Email">jpoulin@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax">(802)728-1314</field>
+			<field name="Office">Admin 226A</field>
+		</record>
+		<record>
+			<id>357</id>
+			<field name="First Name">Doug</field>
+			<field name="Last Name">Pennington</field>
+			<field name="Phone Number">(802)728-1218</field>
+			<field name="Email">dpennington@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Civil &amp; Environmental Eng.</field>
+			<field name="Fax"/>
+			<field name="Office">Green Hall Civil Lab</field>
+		</record>
+		<record>
+			<id>358</id>
+			<field name="First Name">IT</field>
+			<field name="Last Name">Help Desk</field>
+			<field name="Phone Number">(802)728-1721</field>
+			<field name="Email">vtcit@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Information Technology (IT)</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill 131</field>
+		</record>
+		<record>
+			<id>359</id>
+			<field name="First Name">Patrick</field>
+			<field name="Last Name">Flanagan</field>
+			<field name="Phone Number">(802)728-1490</field>
+			<field name="Email">pflanigan@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Construction Practice Mgmt.</field>
+			<field name="Fax"/>
+			<field name="Office">Green Hall 219</field>
+		</record>
+		<record>
+			<id>360</id>
+			<field name="First Name">Joann</field>
+			<field name="Last Name">Gaye</field>
+			<field name="Phone Number">(802)879-5643</field>
+			<field name="Email">jgaye@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office">B300 Reception</field>
+		</record>
+		<record>
+			<id>361</id>
+			<field name="First Name">Mark</field>
+			<field name="Last Name">Corrao</field>
+			<field name="Phone Number">(802)728-1287</field>
+			<field name="Email">mcorrao@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 205</field>
+		</record>
+		<record>
+			<id>362</id>
+			<field name="First Name">Jack</field>
+			<field name="Last Name">Skoda</field>
+			<field name="Phone Number">(802)728-1580</field>
+			<field name="Email">jskoda@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204D</field>
+		</record>
+		<record>
+			<id>363</id>
+			<field name="First Name">Leslie</field>
+			<field name="Last Name">Holson</field>
+			<field name="Phone Number">(802)879-2323</field>
+			<field name="Email">lholson@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>364</id>
+			<field name="First Name">Richard</field>
+			<field name="Last Name">Osborn</field>
+			<field name="Phone Number">(802)728-1440</field>
+			<field name="Email">rosburn@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 102A</field>
+		</record>
+		<record>
+			<id>365</id>
+			<field name="First Name">Robert</field>
+			<field name="Last Name">Piasecki</field>
+			<field name="Phone Number">(802)728-1722</field>
+			<field name="Email">rpiasecki@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">English, Humanities, &amp; Social Sci.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 102C</field>
+		</record>
+		<record>
+			<id>366</id>
+			<field name="First Name">Renae</field>
+			<field name="Last Name">Grout</field>
+			<field name="Phone Number">(802)728-1524</field>
+			<field name="Email">rgrout@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Farmstead</field>
+			<field name="Fax"/>
+			<field name="Office">Farm</field>
+		</record>
+		<record>
+			<id>367</id>
+			<field name="First Name">Information Line</field>
+			<field name="Last Name">Orchard</field>
+			<field name="Phone Number">(802)728-1276</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Farmstead</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>368</id>
+			<field name="First Name">Snack</field>
+			<field name="Last Name">Bar</field>
+			<field name="Phone Number">(802)728-1317</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Aramark</field>
+			<field name="Fax"/>
+			<field name="Office">Old Dorm</field>
+		</record>
+		<record>
+			<id>369</id>
+			<field name="First Name">Colin</field>
+			<field name="Last Name">Andrzejczyk</field>
+			<field name="Phone Number">(603)477-7191</field>
+			<field name="Email"/>
+			<field name="Campus">Other</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Health Center</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>370</id>
+			<field name="First Name">Mike</field>
+			<field name="Last Name">Olson</field>
+			<field name="Phone Number">(802)769-5629</field>
+			<field name="Email">molson@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">IBM Project</field>
+			<field name="Fax"/>
+			<field name="Office">IBM Essex Junction</field>
+		</record>
+		<record>
+			<id>371</id>
+			<field name="First Name">Zina</field>
+			<field name="Last Name">Dana</field>
+			<field name="Phone Number">(802)728-1000</field>
+			<field name="Email">zdana@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Landscape, Dev. &amp; Orn. Horticulture</field>
+			<field name="Fax"/>
+			<field name="Office">Green 113</field>
+		</record>
+		<record>
+			<id>372</id>
+			<field name="First Name">Zina</field>
+			<field name="Last Name">Howe</field>
+			<field name="Phone Number">(802)728-1207</field>
+			<field name="Email">zhowe@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Landscape, Dev. &amp; Orn. Horticulture</field>
+			<field name="Fax"/>
+			<field name="Office">Green 113</field>
+		</record>
+		<record>
+			<id>373</id>
+			<field name="First Name">Philip</field>
+			<field name="Last Name">Petty</field>
+			<field name="Phone Number">(802)728-1208</field>
+			<field name="Email">ppetty@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Academic Dean's Office</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 303</field>
+		</record>
+		<record>
+			<id>374</id>
+			<field name="First Name">Sarah</field>
+			<field name="Last Name">Talcott</field>
+			<field name="Phone Number">(802)879-2316</field>
+			<field name="Email">stalcott@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>375</id>
+			<field name="First Name">Lee Anne</field>
+			<field name="Last Name">Martin</field>
+			<field name="Phone Number">(802)879-2316</field>
+			<field name="Email">lmartin2@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>376</id>
+			<field name="First Name">Kathie</field>
+			<field name="Last Name">Russell</field>
+			<field name="Phone Number">(802)879-2316</field>
+			<field name="Email"/>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Dental Hygiene</field>
+			<field name="Fax">(802)879-2317</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>377</id>
+			<field name="First Name">Dan</field>
+			<field name="Last Name">Lowell</field>
+			<field name="Phone Number">(802)728-1238</field>
+			<field name="Email">bookstore@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Bookstore</field>
+			<field name="Fax">(802)728-6257</field>
+			<field name="Office">Bookstore</field>
+		</record>
+		<record>
+			<id>378</id>
+			<field name="First Name">Kitchen</field>
+			<field name="Last Name">Aramark</field>
+			<field name="Phone Number">(802)728-1299</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Aramark</field>
+			<field name="Fax"/>
+			<field name="Office">Morey Hall</field>
+		</record>
+		<record>
+			<id>379</id>
+			<field name="First Name">Michael</field>
+			<field name="Last Name">Martel</field>
+			<field name="Phone Number">(802)241-2544</field>
+			<field name="Email">michael.martel@vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">VSC</field>
+			<field name="Fax">(802)241-3363</field>
+			<field name="Office">VSC Waterbury</field>
+		</record>
+		<record>
+			<id>380</id>
+			<field name="First Name">David</field>
+			<field name="Last Name">Race</field>
+			<field name="Phone Number">(802)728-1264</field>
+			<field name="Email">drace@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>381</id>
+			<field name="First Name">Roberta</field>
+			<field name="Last Name">Staples</field>
+			<field name="Phone Number">(802)728-1331</field>
+			<field name="Email">rstaples@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Maintenance</field>
+			<field name="Fax">(802)728-1391</field>
+			<field name="Office">Wilcox Building</field>
+		</record>
+		<record>
+			<id>382</id>
+			<field name="First Name">James</field>
+			<field name="Last Name">Lawrence</field>
+			<field name="Phone Number">(802)728-1725</field>
+			<field name="Email">jlawrence@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204C</field>
+		</record>
+		<record>
+			<id>383</id>
+			<field name="First Name">Lewis</field>
+			<field name="Last Name">Petit</field>
+			<field name="Phone Number">(802)728-1774</field>
+			<field name="Email">lpetit@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Mathematics</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 228</field>
+		</record>
+		<record>
+			<id>384</id>
+			<field name="First Name">Katherine</field>
+			<field name="Last Name">Harris</field>
+			<field name="Phone Number">(802)254-5570</field>
+			<field name="Email">kharris@vtc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)254-6356</field>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>385</id>
+			<field name="First Name">Joan</field>
+			<field name="Last Name">Loftus</field>
+			<field name="Phone Number">(802)728-1705</field>
+			<field name="Email">jloftus@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office">Extended/White River Jct.</field>
+		</record>
+		<record>
+			<id>386</id>
+			<field name="First Name">Kathleen</field>
+			<field name="Last Name">Malsch</field>
+			<field name="Phone Number">(802)254-5570</field>
+			<field name="Email">kmalsch@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)254-6356</field>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>387</id>
+			<field name="First Name">Jean</field>
+			<field name="Last Name">Morgan</field>
+			<field name="Phone Number">(802)462-3336</field>
+			<field name="Email">jmorgan@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">Extended/Middlebury</field>
+		</record>
+		<record>
+			<id>388</id>
+			<field name="First Name">Linda</field>
+			<field name="Last Name">Otero</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email">lotero@vtc.vsc.edu</field>
+			<field name="Campus">Bennington</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)447-5218</field>
+			<field name="Office">Putnam/Bennnington</field>
+		</record>
+		<record>
+			<id>389</id>
+			<field name="First Name">Beverly</field>
+			<field name="Last Name">Partington</field>
+			<field name="Phone Number">(802)847-5757</field>
+			<field name="Email">bpartington@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax"/>
+			<field name="Office">Extended/St. Albans</field>
+		</record>
+		<record>
+			<id>390</id>
+			<field name="First Name">Carolyn</field>
+			<field name="Last Name">Stannard-Carlo</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email">CStannard-Carlo@vtc.vsc.edu</field>
+			<field name="Campus">Bennington</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)447-5218</field>
+			<field name="Office">Putnam/Bennington</field>
+		</record>
+		<record>
+			<id>391</id>
+			<field name="First Name">Michelle</field>
+			<field name="Last Name">Wade</field>
+			<field name="Phone Number">(802)254-5570</field>
+			<field name="Email">mwade@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)254-6356</field>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>392</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">OBrien</field>
+			<field name="Phone Number">(802)728-1355</field>
+			<field name="Email">MO'Brien@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Professional Development</field>
+			<field name="Fax"/>
+			<field name="Office">Judd 108A</field>
+		</record>
+		<record>
+			<id>393</id>
+			<field name="First Name">Jay</field>
+			<field name="Last Name">Gagnon</field>
+			<field name="Phone Number">(802)728-1300</field>
+			<field name="Email">jgagnon@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Residential Directors</field>
+			<field name="Fax"/>
+			<field name="Office">Keenan</field>
+		</record>
+		<record>
+			<id>394</id>
+			<field name="First Name">Elizabeth</field>
+			<field name="Last Name">Denton</field>
+			<field name="Phone Number">(802)879-5965</field>
+			<field name="Email">edenton@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Respiratory Therapy</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>395</id>
+			<field name="First Name">Lenae</field>
+			<field name="Last Name">Quillen-Blume</field>
+			<field name="Phone Number">(802)728-1419</field>
+			<field name="Email">lquillen@vtsbdc.org</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Small Business Dev. Ctr. (SBDC)</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>396</id>
+			<field name="First Name">Heather</field>
+			<field name="Last Name">Gonyaw</field>
+			<field name="Phone Number">(802)728-1417</field>
+			<field name="Email">HGonyaw@vtsbdc.org</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Small Business Dev. Ctr. (SBDC)</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>397</id>
+			<field name="First Name">Donald</field>
+			<field name="Last Name">Kelpinski</field>
+			<field name="Phone Number">(802)728-1415</field>
+			<field name="Email">dkelpinski@vtsbdc.org</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Small Business Dev. Ctr. (SBDC)</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>398</id>
+			<field name="First Name">Peter</field>
+			<field name="Last Name">Crawford</field>
+			<field name="Phone Number">(802)728-1423</field>
+			<field name="Email">pcrawford@vtsbdc.org</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Small Business Dev. Ctr. (SBDC)</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>399</id>
+			<field name="First Name">Sally</field>
+			<field name="Last Name">Caldwell</field>
+			<field name="Phone Number">(802)728-1707</field>
+			<field name="Email">scaldwell@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Science</field>
+			<field name="Fax"/>
+			<field name="Office">Green 204E</field>
+		</record>
+		<record>
+			<id>400</id>
+			<field name="First Name">David</field>
+			<field name="Last Name">Pollock</field>
+			<field name="Phone Number">(802)728-1375</field>
+			<field name="Email">dpollock@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Science</field>
+			<field name="Fax"/>
+			<field name="Office">Morril 104A</field>
+		</record>
+		<record>
+			<id>401</id>
+			<field name="First Name">Priscilla</field>
+			<field name="Last Name">Smith-Trudeau</field>
+			<field name="Phone Number">(802)879-5971</field>
+			<field name="Email">priscilla.trudeau@wealthindiversity.com</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>402</id>
+			<field name="First Name">Judy</field>
+			<field name="Last Name">Stilwell</field>
+			<field name="Phone Number">(802)796-4674</field>
+			<field name="Email">jstilwell@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>403</id>
+			<field name="First Name">Scott</field>
+			<field name="Last Name">Finney</field>
+			<field name="Phone Number">(802)442-8811</field>
+			<field name="Email"/>
+			<field name="Campus">Bennington</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)447-5218</field>
+			<field name="Office">Putnam/Bennington</field>
+		</record>
+		<record>
+			<id>404</id>
+			<field name="First Name">Clifford</field>
+			<field name="Last Name">LaPlante</field>
+			<field name="Phone Number">(802)251-2088</field>
+			<field name="Email">claplante@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)254-6356</field>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>405</id>
+			<field name="First Name">Tina</field>
+			<field name="Last Name">Blust</field>
+			<field name="Phone Number">(802)251-2087</field>
+			<field name="Email">tblust@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)254-6356</field>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>406</id>
+			<field name="First Name">Michael</field>
+			<field name="Last Name">Mitchell</field>
+			<field name="Phone Number">(802)254-5570</field>
+			<field name="Email">mmitchell3@vtc.vsc.edu</field>
+			<field name="Campus">Brattleboro</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)254-6356</field>
+			<field name="Office">Thompson/Brattleboro</field>
+		</record>
+		<record>
+			<id>407</id>
+			<field name="First Name">Kathleen</field>
+			<field name="Last Name">Bruckardt</field>
+			<field name="Phone Number">(802)728-1000</field>
+			<field name="Email">kbruckard@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)728-1390</field>
+			<field name="Office">Morrill Addition 112</field>
+		</record>
+		<record>
+			<id>408</id>
+			<field name="First Name">Steven</field>
+			<field name="Last Name">Edelman</field>
+			<field name="Phone Number">(802)728-1000</field>
+			<field name="Email">sedelman@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)728-1390</field>
+			<field name="Office">Morrill Addition 112</field>
+		</record>
+		<record>
+			<id>409</id>
+			<field name="First Name">Mary</field>
+			<field name="Last Name">Lillie</field>
+			<field name="Phone Number">(802)728-1705</field>
+			<field name="Email">mlillie@vtc.vsc.edu</field>
+			<field name="Campus">Other</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)879-5645</field>
+			<field name="Office">Extended/Newport</field>
+		</record>
+		<record>
+			<id>410</id>
+			<field name="First Name">Dodi</field>
+			<field name="Last Name">Barrett</field>
+			<field name="Phone Number">(802)728-1509</field>
+			<field name="Email">bdodi@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Support Services</field>
+			<field name="Fax"/>
+			<field name="Office">Conant 215</field>
+		</record>
+		<record>
+			<id>411</id>
+			<field name="First Name">Gilbert</field>
+			<field name="Last Name">Rose</field>
+			<field name="Phone Number">(802)728-1271</field>
+			<field name="Email">grose@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Student Support Services</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>412</id>
+			<field name="First Name">Joan</field>
+			<field name="Last Name">Richmond-Hall</field>
+			<field name="Phone Number">(802)728-1717</field>
+			<field name="Email">jrichmond@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Sustainable Design</field>
+			<field name="Fax"/>
+			<field name="Office">Morrill Addition 220</field>
+		</record>
+		<record>
+			<id>413</id>
+			<field name="First Name">James</field>
+			<field name="Last Name">Degnan</field>
+			<field name="Phone Number">(802)728-1357</field>
+			<field name="Email">jdegnan@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Vermont Interactive TV (VIT)</field>
+			<field name="Fax">(802)728-1724</field>
+			<field name="Office">Morrill 102E</field>
+		</record>
+		<record>
+			<id>414</id>
+			<field name="First Name">Vicki</field>
+			<field name="Last Name">Blanchard</field>
+			<field name="Phone Number">(802)728-1432</field>
+			<field name="Email">vblanchard@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">VMEC</field>
+			<field name="Fax">(802)728-1456</field>
+			<field name="Office">Judd 103A</field>
+		</record>
+		<record>
+			<id>415</id>
+			<field name="First Name">David</field>
+			<field name="Last Name">Ransom</field>
+			<field name="Phone Number">(802)879-2367</field>
+			<field name="Email">dransom@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department">Williston Direct Hire Students</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">237</field>
+		</record>
+		<record>
+			<id>416</id>
+			<field name="First Name">Andrew</field>
+			<field name="Last Name">Sibley</field>
+			<field name="Phone Number">(802)879-2367</field>
+			<field name="Email">asibley@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Other</field>
+			<field name="Department">Williston Work-Study Students</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">237</field>
+		</record>
+		<record>
+			<id>417</id>
+			<field name="First Name">Gianine</field>
+			<field name="Last Name">Lupo</field>
+			<field name="Phone Number">(802)728-1763</field>
+			<field name="Email">glupo@vtc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Business Office</field>
+			<field name="Fax"/>
+			<field name="Office">Admin 224</field>
+		</record>
+		<record>
+			<id>418</id>
+			<field name="First Name">Student</field>
+			<field name="Last Name">Accounts</field>
+			<field name="Phone Number">(802)728-1301</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Student Affairs</field>
+			<field name="Fax"/>
+			<field name="Office">Admin Lobby</field>
+		</record>
+		<record>
+			<id>419</id>
+			<field name="First Name">Emma</field>
+			<field name="Last Name">Schumann</field>
+			<field name="Phone Number">(802)728-1361</field>
+			<field name="Email"/>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Residential Directors</field>
+			<field name="Fax"/>
+			<field name="Office">Old Dorm</field>
+		</record>
+		<record>
+			<id>420</id>
+			<field name="First Name">Karry</field>
+			<field name="Last Name">Booska</field>
+			<field name="Phone Number">(802)728-1223</field>
+			<field name="Email"/>
+			<field name="Campus">Other</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Residential Directors</field>
+			<field name="Fax"/>
+			<field name="Office">Nutting</field>
+		</record>
+		<record>
+			<id>421</id>
+			<field name="First Name">Toll-Free</field>
+			<field name="Last Name">Admissions</field>
+			<field name="Phone Number">(800)442-8821</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Admissions</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>422</id>
+			<field name="First Name">Campus-Line</field>
+			<field name="Last Name">Admissions</field>
+			<field name="Phone Number">(802)728-1444</field>
+			<field name="Email"/>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Other</field>
+			<field name="Department">Admissions</field>
+			<field name="Fax"/>
+			<field name="Office"/>
+		</record>
+		<record>
+			<id>423</id>
+			<field name="First Name">Peter</field>
+			<field name="Last Name">Chapin</field>
+			<field name="Phone Number">(802)728-1304</field>
+			<field name="Email">pchapin@vtc.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - FT</field>
+			<field name="Department">Electrical &amp; Computer Eng. Tech.</field>
+			<field name="Fax"/>
+			<field name="Office">Green 227</field>
+		</record>
+		<record>
+			<id>424</id>
+			<field name="First Name">Chris</field>
+			<field name="Last Name">Beattie pager</field>
+			<field name="Phone Number">(802)350-7430</field>
+			<field name="Email">cbeattie@vtc.vsc.edu</field>
+			<field name="Campus">Williston</field>
+			<field name="Role">Staff</field>
+			<field name="Department">Information Tech. (IT)</field>
+			<field name="Fax">(802)879-2327</field>
+			<field name="Office">229</field>
+		</record>
+		<record>
+			<id>425</id>
+			<field name="First Name">Allison</field>
+			<field name="Last Name">Dean</field>
+			<field name="Phone Number"/>
+			<field name="Email">allison.dean@exchange.ccv.vsc.edu</field>
+			<field name="Campus">Randolph</field>
+			<field name="Role">Faculty - Adjunct</field>
+			<field name="Department">Nursing</field>
+			<field name="Fax">(802)728-1390</field>
+			<field name="Office">Morrill Addition 113</field>
+		</record>
+	</people>
+</data-group>

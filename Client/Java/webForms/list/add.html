@@ -1,0 +1,51 @@
+<html>
+<head>
+	<title>Add Entry</title>
+</head>
+<body>
+	<script lang="javascript">
+		function gup( name )
+		{
+			name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+			var regexS = "[\\?&]"+name+"=([^&#]*)";
+			var regex = new RegExp( regexS );
+			var results = regex.exec( window.location.href );
+			if( results == null )
+				return "";
+			else
+				return results[1];
+		}
+	</script>
+	<h3>Add Entries.</h3>
+	<form method="get" action="add.jsp">
+		<table cellpadding="2">
+			<tr>
+				<td>First Name:</td>
+				<td><input type="text" name="firstname" size="20" /></td>
+			</tr>
+			<tr>
+				<td>Last Name:</td>
+				<td><input type="text" name="lastname" size="20" /></td>
+			</tr>
+			<tr>
+				<td>E-mail:</td>
+				<td><input type="text" name="email" size="20" /></td>
+			</tr>
+			<script lang="javascript">document.write("<input type=\"hidden\" name=\"session\" value=" + gup('session') + " />");</script>
+			<tr>
+				<td><input type="submit" value="Add" /></td>
+				<td align="right"><input type="reset" value="Clear All" /></td>
+			</tr>
+		</table>
+	</form>
+	<br />
+	<br />
+	Alternatively, upload an excel comma-delimited (csv) file:
+	<form method="post" action="fileparser.jsp" enctype='multipart/form-data'>
+		<input type="file" name="file" />
+		<br />
+		<input type="submit" value="Upload" />
+	</form>
+	<script lang="javascript">document.write("<a href=\"account.jsp?session=" + gup('session') + ">Back to Menu</a>");</script>
+</body>
+</html>

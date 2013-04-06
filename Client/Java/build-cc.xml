@@ -1,0 +1,23 @@
+<project name="wowClient" default="javaDocs" basedir=".">
+
+	<target name="update">
+		<!-- update the working copy from the repository -->
+		<delete dir="wowClient" />
+		<exec executable="svn"><arg line="update"/></exec>
+	</target>
+
+	<target name="build" depends="update">
+		<!-- ...and invoke the project's build script -->
+		<ant antfile="build.xml" target="build" />
+	</target>
+	
+	<target name="tests" depends="build">
+		<!-- ...and invoke the project's test script -->	
+		<ant antfile="build.xml" target="test" />
+	</target>
+	
+	<target name="javaDocs" depends="tests">
+		<!-- ...create JavaDocs after compiling and testing any changes-->	
+    	<ant antfile="build.xml" target="makeJavaDocs" />
+	</target>
+</project>

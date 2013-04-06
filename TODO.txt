@@ -1,0 +1,34 @@
+CI Environment
+==============
+
+# Win32 build: at the conclusion of every successful build a working executable should be packaged. Andy mentioned possibly using the NSIS installer for this.
+
+# Unit test results should be displayed in CruiseControl.
+
+
+CMS
+===
+
+# Wait on this until Jimbo creates vtank.vtc.edu; I'll push this.
+
+# Setup the (Joomla) VTank CMS; use the default template for awhile. The main focus should be getting a CMS working that provides a place download the client, a place for users to discuss the game experience, and a place to learn about the VTank project. Let's not focus so much on aesthetics, rather, we'll focus on function.
+
+
+WOW
+===
+
+# Chris: add the new records Jean-Marie spoke of
+
+# Chris: update content for "Fast Help"
+
+# Rename Info-->General Info to Info-->Emergency Info
+
+# In "Help-->About" WOW dice image doesn't display properly.
+
+# Sam: change password on vtcit2@vtc.edu to standard SoSE password.
+
+# Forward mail from vtcit2 to my personal e-mail account.
+
+# When all is complete, tag WOW as version 1.
+
+# Get the word out that WOW is ready; Carrie Clement, Tech Talk by 8/12.

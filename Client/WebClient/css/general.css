@@ -1,0 +1,392 @@
+* 
+   {
+	margin: 0;
+	font-family: arial, sans-serif;
+	font-size: small;
+  }
+
+html, body
+    {
+    height: 100%;
+  }
+
+a 
+   {
+    color: blue;
+  }
+  
+img
+    {
+     border: 0px;
+  }
+  
+hr.topBorder
+    {
+    clear: both;
+  }
+  
+hr
+   {
+	margin: 0px 0px 0px 0px;
+  }
+  
+.menuItem 
+   {
+	border: 1px solid purple;
+	width: auto;
+	margin-bottom: -1px;
+	display: block;
+	padding-left: 2px;
+	background-color: #EEEEFF;
+	height: 18px;
+  }
+  
+.bigMenuItem
+   {
+    border: 1px solid purple;
+	width: auto;
+	margin-bottom: -1px;
+	display: block;
+	padding-left: 2px;
+	background-color: #EEEEFF;
+	height: 36px;
+  }
+  
+#deptlist
+    {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+  }
+  
+select
+    {
+	width: 100%;
+  }
+  
+input
+    {
+    margin: 0px 0px 10px 0px;
+  }
+  
+.duringQuery
+   {
+   float: left;
+  }
+ 
+#top
+    {
+    width: 100%;
+    vertical-align: bottom;
+  }
+
+#dielogo
+    {
+    padding: 5px 10px 0px 5px;
+    width: 35px;
+    float: left;
+  }
+  
+#links
+    {
+    padding-top: 10px;
+    width: 50%;
+  }
+  
+#VTClogo
+    {
+    width: 129px;
+    float: right;
+    padding-right: 10px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  
+#searcharea
+    {
+    text-align: center;
+  }
+  
+.searchleft
+    {
+    width: 100%;
+  }
+   
+#wowlogo
+    {
+    width: 150px;
+  }
+  
+.smallPadding
+    {
+    padding: 10px 10px 10px 10px;
+  }
+  
+.bigPadding
+    {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  
+.infoPadding
+{
+	padding: 15px 15px 15px 15px;
+	font-family:"Comic Sans MS", cursive;
+	color:#030;
+}
+
+.center
+    {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+.wowCenter
+{
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:15px;
+	padding-bottom:5px;
+}
+  
+.floatLeft
+    {
+    float: left;
+  }
+  
+.floatRight
+    {
+    float: right;
+  }
+  
+.clearBoth
+    {
+    clear: both;
+  }
+  
+.spaceUp
+    {
+    margin-top: 30px;
+    margin-left: 25px;
+  }
+  
+.fullWidth
+    {
+    width: 100%;
+  }
+  
+.fixedwidth
+    {
+    width: 416px;
+  }
+
+.searchBarQuiet
+    {
+    color: gray;
+  }
+  
+.searchBarActive
+    {
+    color: black;
+  }
+  
+#barbutton
+    {
+    text-align: center;
+  }
+  
+#searchBar
+    {
+    width: 3.5in;
+	font-size: medium;
+  }
+  
+#preflinks
+    {
+    width: 60px;
+    font-size: 75%;
+    float: left;
+    padding: 0px 0px 0px 10px;
+    text-align: left;
+  }
+  
+#advance
+    {
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 320px;
+	border-style: none;
+  }
+  
+table
+   {
+   margin-left: auto;
+   margin-right: auto;
+  }
+  
+table.output
+    {
+	text-align: right;
+  }
+  
+tr.button
+    {
+    text-align: center;
+  }
+
+tr.outputrow
+   {
+   border: 1px solid #000000;
+  }
+
+td
+   {
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: top;
+	padding: 5px;
+  }   
+
+td.outputrow
+   {
+	border: 1px solid #000000;
+	text-align: left;
+  }
+  
+#helptable
+    {
+    border: 1px solid blue;
+    background-color: #7AB7FE;
+    width: 600px;
+    height: 300px;
+  }
+  
+#help-output
+   {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    width: 679px;
+    text-align: center;
+  }
+
+#container
+   {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+  }
+
+.push {
+	height: 4em;
+}
+
+#footer
+  {
+    font-size: 85%;
+	text-align: center;
+	height: 4em;
+  } 
+
+#output
+   {
+    clear: both;
+  }
+  
+.output
+{
+	border-style: solid;
+	border-width: 1px;
+}
+  
+#menu li 
+    {
+	float: left;
+	list-style: none;
+	z-index: 30;
+	padding: 0;
+	margin-right: 6px;
+	border: 1px black;
+  }
+
+.subMenu 
+    {
+	/*color: black;
+	background-color: #EEEEFF;
+	text-decoration: none;
+	border: 1px purple solid;
+	text-align: left;
+	vertical-align: middle;
+	display: none;
+	top: 12px;*/
+	display: none;
+  }
+
+#menu hr
+    {
+	border: 1px purple solid;
+  }
+
+#menu li a
+    {
+	margin-left: 5px;
+	margin-right: 5px;
+  }
+
+.menuitem
+   {
+	display: block;
+	top: 10px;
+  }
+  
+#menuitem1
+    {
+	position: absolute;
+	left: 45px;
+	width: 125px;
+  }
+  
+#menuitem2
+    {
+	position: absolute;
+	left: 165px;
+	width: 100px;
+  }
+  
+#menuitem3
+    {
+	position: absolute;
+	left: 215px;
+	width: 100px;
+  }
+  
+#advancedItem
+    {
+    position: absolute;
+	left: 270px;
+	top: 10px;
+	z-index: 31;
+    width: 60px;
+  }
+  
+#menuitem4
+    {
+	position: absolute;
+	left: 345px;
+	width: 80px;
+  }
+  
+.columnHeader
+    {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #000000;
+  }
+
+.tableOutput
+   {
+	text-align: center;
+  }

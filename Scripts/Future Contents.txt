@@ -1,0 +1,13 @@
+Scripts to write for Andy and Boomer
+
+1. Script to create backups of profiles.dat 
+
+2. Script to create backups of repository
+
+3. Script to rsync profiles.dat and backups from atlantis to midnight
+
+4. Script to rsync repository and backups from atlantis to midnight
+
+5. Script to create at least one backup of quicksilver web pages
+
+6. Script to backup list of Williston students (future)

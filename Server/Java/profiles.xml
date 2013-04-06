@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data-group>
+    <admins>
+        <admin>
+            <name>admin</name>
+            <password>cadd3edc21f07f17239fdd24180df3b1c08b32a3</password>
+        </admin>
+    </admins>
+	<departments>
+		<entry>
+			<name>Temp. Dept.</name>
+		</entry>
+</departments>
+	<people>
+		<record>
+			<id>0</id>
+				<field name="First Name">Joe</field>
+				<field name="Last Name">nobody</field>
+				<field name="Phone Number">(802)555-4444</field>
+				<field name="Email">jay@jet.plane</field>
+				<field name="Campus">Randolph</field>
+				<field name="Role">Other</field>
+				<field name="Department">Temp. Dept.</field>
+				<field name="Fax">(802)555-3434</field>
+				<field name="Office">Conant 200</field>
+		</record>
+	</people>
+</data-group>

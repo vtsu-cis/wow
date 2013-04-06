@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<title>Window on the World - Feedback</title>
+	<style type = "text/css">
+		table {
+			font-family: Tahoma;
+		}
+		
+		input.error{
+		  color: #FF0000;
+		}
+	</style>
+	<script type="text/javascript" src="js/Request.js"></script>
+	<script type="text/javascript">
+	<!--
+	MAIL_TARGET_SCRIPT = "query.php"; //script to use
+	CLEARED = false;
+	
+	String.prototype.trim = function() {
+		var	str = this.replace(/^\s\s*/, ''),
+			ws = /\s/,
+			i = this.length;
+		while (ws.test(str.charAt(--i)));
+			return str.slice(0, i + 1);
+	}
+	
+	function sendMail()
+	{ 
+		var name = document.getElementById('fbName').value;
+		var email = document.getElementById('fbEmail').value;
+		var message = document.getElementById('fbMessage').value;
+		
+		name = name.trim();
+		email = email.trim();
+		message = message.trim();
+		
+		var type = document.getElementById('fbType').value;
+	
+		var mailPacket = "";
+		mailPacket = MAIL_TARGET_SCRIPT + "?cmd=MAIL&arg=" + name + "|" + email + "|" + type + "|" + message;
+		var out = new Request(mailPacket);
+	  
+		var interval = "";
+		
+		out.execute();
+	  
+		if (out.isDone()) {
+			var result = out.getResponse();
+            
+            document.getElementById("content").innerHTML = result;
+		}
+		else {
+			// Poll the script every few milliseconds to see if it can get the data and display it yet.
+			interval = setInterval(tryMailAgain, 5);
+			
+			document.getElementById("content").innerHTML = "Sending...";
+		}
+	
+		function tryMailAgain() 
+		{
+			if (out.isDone()) {
+				var result = out.getResponse()		
+				clearInterval(interval);
+				
+				document.getElementById("content").innerHTML = result;
+			}
+		}
+    }
+	
+	function check()
+	{
+
+		var markForError = new Array(3);
+		for (var i = 0; i < 3; i++) {
+			markForError[i] = "";
+		}
+		
+		if (document.getElementById('fbName').value == null || document.getElementById('fbName').value == "") {
+			markForError[0] = "Enter your name.";
+		}
+		else {
+			if (document.getElementById('fbName').value.match(/[^A-Za-z -_]/)){
+				markForError[0] = "Please only use letters and spaces for your name.";
+			}
+		}
+		
+		if (document.getElementById('fbEmail').value == null || document.getElementById('fbEmail').value == "") {
+			markForError[1] = "Enter your e-mail.";
+		}
+		else {
+			if (!document.getElementById('fbEmail').value.match(/@{1}/) || !document.getElementById('fbEmail').value.match(/\.+/) || document.getElementById('fbEmail').value.match(/\|/)) {
+				markForError[1] = "Invalid e-mail address.";
+			}
+		}
+		
+		if (document.getElementById('fbMessage').value == null || document.getElementById('fbMessage').value == "") {
+			markForError[2] = "Enter a message.";
+			//for some reason the above line sets the value, not the html
+		}
+		else {
+			if (document.getElementById('fbMessage').value.match(/\|/)) {
+				document.getElementById.value.replace("|", "");
+			}
+		}
+		
+		var hasError = false;
+		if (markForError[0]) {
+			document.getElementById('yourName').style.color = "red";
+			hasError = true;
+		}
+		else {
+			document.getElementById('yourName').style.color = "black";
+		}
+			
+		if (markForError[1]) {
+			document.getElementById('yourEmail').style.color = "red";
+			hasError = true;
+		}
+		else {
+			document.getElementById('yourEmail').style.color = "black";
+		}
+		
+		if (markForError[2]) {
+			document.getElementById('message').style.color = "red";
+			hasError = true;
+		}
+		else {
+			document.getElementById('message').style.color = "black";
+		}
+		
+		if(!hasError){ //we have a valid message to send
+		   var result = sendMail();       //send the message
+		}
+		else{                //or dont send and mark the errors
+			var errors = "";
+			for (var i = 0; i < 3; i++) {
+				if (markForError[i]) {
+					errors += markForError[i] + "<br />";
+				}
+			}
+			
+			document.getElementById('showErrors').innerHTML = errors;
+		}
+        
+        return false;
+	}
+    
+    function clearOnce(element) 
+    {
+        if (!CLEARED) {
+            CLEARED = true;
+            element.value = '';
+        }
+    }
+	
+	//-->
+	</script>
+</head>
+<body>
+    <form name="fbForm">
+    	<div id="content">
+    		<div id="showErrors"></div>
+    		<table>
+    			<tr>
+    				<td id="yourName">Your name:</td>
+    				<td><input type="text" name="fbName" id="fbName" maxlength="50" /></td>
+    			</tr>
+    			<tr>
+    				<td id="yourEmail">Your e-mail:</td>
+    				<td><input type="text" name="fbEmail" id="fbEmail" maxlength="75" /></td>
+    			</tr>
+    			<tr>
+    				<td id="contactType">Contact type:</td>
+    				<td>
+    					<select name="fbType" id="fbType">
+    						<option value="Correction">Data Correction</option>
+    						<option value="Suggestion">Suggestion</option>
+    						<option value="Comment">Comment</option>
+    						<option value="Bug">Bug</option>
+    					</select>
+    				</td>
+    			</tr>
+    			<tr>
+    				<td id="message" colspan="2">Message:</td>
+    			</tr>
+    			<tr>
+    				<td colspan="2">
+                        <textarea maxlength="512" cols="40" rows="7" name="fbMessage" id="fbMessage" onclick="javascript:clearOnce(this);">Use the 'Data Correction' contact type to inform us of incorrect information in a WOW record.</textarea>
+                    </td>
+    			</tr>
+    			<tr>
+    				<td colspan="2"><input type="button" value="Submit" name="submit" onclick="check();" /></td>
+    			</tr>
+    			<tr><td>&nbsp;</td><tr>
+    		</table>
+        </div>
+	</form>
+</body>
+</html>

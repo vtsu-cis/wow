@@ -1,0 +1,19 @@
+project Wowd is
+
+   for Object_Dir use "build";
+
+   package Compiler is
+      for Default_Switches ("ada") use ("-gnato", "-fstack-check", "-g", "-gnata");
+   end Compiler;
+
+   package Ide is
+      for Vcs_Kind use "Subversion";
+      for Default_Switches ("adacontrol") use ("-F", "gnat_short");
+      for Default_Switches ("examiner") use ("/profile=sequential", "/flow_analysis=information", "/rules=none");
+      for Default_Switches ("sparkformat") use ("/noadd_modes", "/compress");
+   end Ide;
+
+   for Main use ("wowd.adb");
+
+end Wowd;
+
